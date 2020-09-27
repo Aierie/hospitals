@@ -14,6 +14,14 @@ Compilation of geocode data + hospital data from moh + maps data
 
 # Details of results.csv + results.json
 - name: name of the hospital, as shown on the moh listing. may not be the same as google maps name.
+- latitude: latitude
+- longitude: longitude
+- globalPlusCode: plus code from google maps geocoding api
+- phone: phone number of the hospital
+- website: website of the hospital
+- beds: number of beds the hospital has
 - address: address as shown by the moh listing
-- map address: address as shown by google maps
-- plus: plus code shown on google maps
+- city: city the hospital is in
+- state: state the hospital is in
+- notes: some notes I took while manually collecting data from google maps
+- mapsAddress: address as shown by google maps
