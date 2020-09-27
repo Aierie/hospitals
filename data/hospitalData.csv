@@ -1,0 +1,580 @@
+name,city,state,mohLink,phone,fax,website,beds,address
+Hospital Alor Gajah,Alor Gajah,Melaka,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/30,06-5562333,06-5567392,http://hag.moh.gov.my,78,"Pejabat Hospital, Hospital Alor Gajah,
+Alor Gajah, Melaka,
+78000 Alor Gajah,
+Melaka"
+Hospital Ampang,Ampang,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/116,03-42896000,03-42954666,http://hampg.moh.gov.my,422,"Jalan Mewah Utara,
+Ampang, Selangor,
+68000 Ampang,
+Selangor"
+Hospital Bahagia Ulu Kinta,Ulu Kinta,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/134,05-5332333,05-5331350,http://hbuk.moh.gov.my,2200,"Tanjong Rambutan,
+Ulu Kinta, Perak,
+31250 Ulu Kinta,
+Perak"
+Hospital Balik Pulau,Balik Pulau,Pulau Pinang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/64,04-8669333,04-8666058,http://jknpenang.moh.gov.my/hbp/,71,"Balik Pulau,
+Balik Pulau, Pulau Pinang,
+11000 Balik Pulau,
+Pulau Pinang"
+Hospital Baling,Baling,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/12,04-4701333,04-4701160,http://hbaling.moh.gov.my,160,"Jala Hospital,
+Baling, Kedah,
+09100 Baling,
+Kedah"
+Hospital Banting,Banting,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/120,03-31871333,03- 31871153,,153,"Jalan Sultan Alam Shah,
+Banting, Selangor,
+42700 Banting,
+Selangor"
+Hospital Batu Gajah,Batu Gajah,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/54,05-3663333,05-3663851,http://hbgjh.moh.gov.my,160,"Jalan Changkat,
+Batu Gajah, Perak,
+31000 Batu Gajah,
+Perak"
+Hospital Bau,Bau,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/93,082-763711,082-763716,,68,"Batu 1 ½,  Jalan Bau-Lundu,
+Bau, Sarawak,
+94000 Bau,
+Sarawak"
+Hospital Beaufort,Beaufort,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/70,087-212333,087-211725,http://hbeaufort.moh.gov.my,184,"Peti Surat 40,
+Beaufort, Sabah,
+89807 Beaufort,
+Sabah"
+Hospital Beluran,Beluran,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/71,089-511233/333,089-511242,,46,"Karung Berkunci No : 02,
+Beluran, Sabah,
+90109 Beluran,
+Sabah"
+Hospital Bentong,Bentong,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/39,09-2223333,09-2224494,http://hspben.moh.gov.my/,152,"28700 Bentong,
+Bentong, Pahang,
+28700 Bentong,
+Pahang"
+Hospital Besut,Besut,Terengganu,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/124,09-6971130/09-6971200,09-6972762,,140,"Jalan Pasir Akar, Jerteh,
+Besut, Terengganu,
+22000 Besut,
+Terengganu"
+Hospital Betong,Betong,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/94,083-472821,083-472664,,48,"Jalan Betong,
+Betong, Sarawak,
+95707 Betong,
+Sarawak"
+Hospital Bintulu,Bintulu,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/95,086-255899,086-255866,http://hbtu.moh.gov.my,284,"Jalan Nyabau,
+Bintulu, Sarawak,
+97000 Bintulu,
+Sarawak"
+Hospital Bukit Mertajam,Bukit Mertajam,Pulau Pinang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/66,04-5497333,04-5497299,http://jknpenang.moh.gov.my/hbm/,242,"Jalan Kulim, Bukit Mertajam,
+Bukit Mertajam, Pulau Pinang,
+14000 Bukit Mertajam,
+Pulau Pinang"
+Hospital Changkat Melintang,Bota,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/62,05-3761333,05-3761400,,50,"Lambor Kanan,Parit,
+Bota, Perak,
+32900 Bota,
+Perak"
+Hospital Dalat,Dalat,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/96,084-863213,084-863058,,8,"Jalan Oya-Dalat,
+Dalat, Sarawak,
+96300 Dalat,
+Sarawak"
+Hospital Daro,Daro,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/97,084-823620,084-823624,http://hdaro.moh.gov.my,46,"Jalan Itol,
+Daro, Sarawak,
+96200 Daro,
+Sarawak"
+Hospital Duchess Of Kent,Sandakan,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/86,089-248 600                     Talian_Kecemasan:089-255 022,089-213 607                        Emel:hdok@moh.gov.my,http://hdok.moh.gov.my,400,"KM 3.2, Jalan Utara,
+Sandakan, Sabah,
+90000 Sandakan,
+Sabah"
+Hospital Dungun,Dungun,Terengganu,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/125,09-8483333,09-8484160,,100,"Hospital Dungun,
+Dungun, Terengganu,
+23000 Dungun,
+Terengganu"
+"Hospital Enche' Besar Hajjah Kalsom, Kluang",Kluang,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/4,07-7787000,07-7787128,,244,"KM 5, Jln Kota Tinggi,
+86000 Kluang,
+Johor"
+Hospital Gerik,Grik,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/52,05-7911333,05- 7911945,http://hgerik.moh.gov.my,75,"Jalan Intan,
+Grik, Perak,
+33000 Grik,
+Perak"
+Hospital Gua Musang,Gua Musang,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/21,09-9121133,09-91212302,,34,"Bandar Baru,
+Gua Musang, Kelantan,
+18300 Gua Musang,
+Kelantan"
+Hospital Hulu Terengganu,Kuala Berang,Terengganu,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/126,09-6813333/6813120,09-6813099,,119,"Batu 23, Jalan Kuala Berang,
+Kuala Berang, Terengganu,
+21700 Kuala Berang,
+Terengganu"
+Hospital Jasin,Jasin,Melaka,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/31,06-5294262,06-5295262,http://hjasin.moh.gov.my/,76,"77000 Jasin,
+Jasin, Melaka,
+77000 Jasin,
+Melaka"
+Hospital Jelebu,Jelebu,Negeri Sembilan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/33,06-6136355,06-6137531,,76,"71600 Jelebu,
+Jelebu, Negeri Sembilan,
+71600 Jelebu,
+Negeri Sembilan"
+Hospital Jeli,Jeli,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/22,09-9440092,09-9440068,,24,"17600 Jeli,
+Jeli, Kelantan,
+17600 Jeli,
+Kelantan"
+Hospital Jempol,Bandar Seri Jempol,Negeri Sembilan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/34,06-4592000,06-4581086,,108,"Bandar Seri Jempol,
+Bandar Seri Jempol, Negeri Sembilan,
+72120 Bandar Seri Jempol,
+Negeri Sembilan"
+Hospital Jengka,Maran,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/44,09-4662333,09-4663215,,70,"26400 Bandar Jengka,
+Maran, Pahang,
+26400 Maran,
+Pahang"
+Hospital Jerantut,Jerantut,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/41,09-2663333,09-2661462,http://hjerantut.moh.gov.my,77,"27000 Jerantut,
+Jerantut, Pahang,
+27000 Jerantut,
+Pahang"
+Hospital Jitra,Jitra,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/15,04-9174333,04-9176346,http://hjitra.moh.gov.my,103,"Jalan Changlun, Jitra Kedah,
+Jitra, Kedah,
+06000 Jitra,
+Kedah"
+Hospital Kajang,Kajang,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/117,03-89133333,03-87367527,http://hkjg.moh.gov.my,306,"Jalan Semenyih,
+Kajang, Selangor,
+43000 Kajang,
+Selangor"
+Hospital Kampar,Kampar,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/55,05-4653333,05-4655664,http://hkampar.moh.gov.my,90,"Jalan Hospital,
+Kampar, Perak,
+31500 Kampar,
+Perak"
+Hospital Kanowit,Kanowit,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/98,084-752333,084-752682,http://hkanowit.moh.gov.my,100,"Jalan Kanowit/ Durin,
+Kanowit, Sarawak,
+96700 Kanowit,
+Sarawak"
+Hospital Kapit,Kapit,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/99,084-796333,084-798333,http://hkapit.moh.gov.my,134,"Jalan Memora,
+Kapit, Sarawak,
+96800 Kapit,
+Sarawak"
+Hospital Kemaman,Kemaman,Terengganu,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/127,09-8513333,09-8595512,http://hkemaman.moh.gov.my,116,"Jalan Da' Omar, Cukai,
+Kemaman, Terengganu,
+24000 Kemaman,
+Terengganu"
+Hospital Keningau,Keningau,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/72,087-313000,087-331595,http://hkgu.moh.gov.my,212,"Peti Surat 11,
+Keningau, Sabah,
+89007 Keningau,
+Sabah"
+Hospital Kepala Batas,Kepala Batas,Pulau Pinang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/68,04-5793333,04-5791088,http:// jknpenang.moh.gov.my/hkb/,108,"Jalan Bertam, Kepala Batas,
+Kepala Batas, Pulau Pinang,
+13200 Kepala Batas,
+Pulau Pinang"
+Hospital Kinabatangan,Kinabatangan,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/73,089-561858,089-561854,http://hkbtgn.moh.gov.my,68,"W.D.T 200,
+Kinabatangan, Sabah,
+90020 Kinabatangan,
+Sabah"
+Hospital Kota Belud,Kota Belud,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/74,088-976333,088-977492,http://hkotabelud.moh.gov.my,172,"Peti Surat 159,
+Kota Belud, Sabah,
+89158 Kota Belud,
+Sabah"
+Hospital Kota Marudu,Kota Marudu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/78,088-661984,088-663759,http://hkm.moh.gov.my,97,"Peti Surat 255,
+Kota Marudu, Sabah,
+89108 Kota Marudu,
+Sabah"
+Hospital Kota Tinggi,Kota Tinggi,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/5,07-8831131/32,07-8831333,http://hkotatinggi.moh.gov.my,158,"Jalan Tun Habah,
+Kota Tinggi, Johor,
+81900 Kota Tinggi,
+Johor"
+Hospital Kuala Kangsar,Kuala Kangsar,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/57,05-7763333,05-7769660,,136,"Jalan Sultan Idris Shah 1,
+Kuala Kangsar, Perak,
+33000 Kuala Kangsar,
+Perak"
+Hospital Kuala Kubu Bharu,Kuala Kubu Bharu,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/118,03-60641333,03- 60643039,http://hkkb.moh.gov.my,120,"Jalan Hospital,
+Kuala Kubu Bharu, Selangor,
+44000 Kuala Kubu Bharu,
+Selangor"
+Hospital Kuala Lipis,Kuala Lipis,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/43,09-3123333,09-3121787,,128,"27200 K.Lipis,
+Kuala Lipis, Pahang,
+27200 Kuala Lipis,
+Pahang"
+Hospital Kuala Lumpur,Kuala Lumpur,WP Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/130,03-26155555,03-26989845,http://hkl.moh.gov.my/,2131,"Jalan Pahang,
+Kuala Lumpur, WP Kuala Lumpur,
+50586 Kuala Lumpur,
+WP Kuala Lumpur"
+Hospital Kuala Nerang,Kuala Nerang,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/18,04-7867333,04-7867052,http://hknerang.moh.gov.my,72,"Kuala Nerang,
+Kuala Nerang, Kedah,
+06300 Kuala Nerang,
+Kedah"
+Hospital Kuala Penyu,Kuala Penyu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/79,087-853100,087-884212,http://hspkpyu.moh.gov.my,48,"W.D.T. 35,
+Kuala Penyu, Sabah,
+89740 Kuala Penyu,
+Sabah"
+Hospital Kudat,Kudat,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/80,088-613333,088-611875,,180,"Peti Surat 22,
+Kudat, Sabah,
+89057 Kudat,
+Sabah"
+Hospital Kulim,Kulim,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/16,04-4272733,04-4900760,http://hkulim.moh.gov.my/,281,"Jalan Mahang, Kulim,
+Kulim, Kedah,
+09000 Kulim,
+Kedah"
+Hospital Kunak,Kunak,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/81,089-894100,089-853285,http://hknk.moh.gov.my,48,"W.D.T. 150,
+Kunak, Sabah,
+91209 Kunak,
+Sabah"
+Hospital Labuan,Labuan,WP Labuan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/131,087-423922/ 423919,087-423928,,109,"Peti Surat 81006,
+Labuan, WP Labuan,
+87020 Labuan,
+WP Labuan"
+Hospital Lahad Datu,Lahad Datu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/82,089-895111,089-884670,http://hldu.moh.gov.my,268,"Peti Surat 60065,
+Lahad Datu, Sabah,
+91110 Lahad Datu,
+Sabah"
+Hospital Langkawi,Langkawi,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/17,04-9665333,04-9660121,http://hlangkawi.moh.gov.my,110,"Bukit Tekuh,Jalan Padang Maksirat,
+Langkawi, Kedah,
+07000 Langkawi,
+Kedah"
+Hospital Lawas,Lawas,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/102,085-283781,085-285993,,46,"Jalan Hospital,
+Lawas, Sarawak,
+98850 Lawas,
+Sarawak"
+Hospital Limbang,Limbang,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/103,085-211200,085-213294,http://hlimbang.moh.gov.my,100,"Jalan Pandaruan,
+Limbang, Sarawak,
+98700 Limbang,
+Sarawak"
+Hospital Lundu,Lundu,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/104,082-735311,082-735055,,46,"Jalan Sekambal,
+Lundu, Sarawak,
+94500 Lundu,
+Sarawak"
+Hospital Machang,Machang,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/25,09-9741300/301,09-9752470,http://hmachang.moh.gov.my/,90,"Jalan Pasir Puteh,
+Machang, Kelantan,
+18500 Machang,
+Kelantan"
+Hospital Marudi,Marudi,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/105,085-755511,085-755217,,54,"Jalan Pungor,
+Marudi, Sarawak,
+98050 Marudi,
+Sarawak"
+Hospital Melaka,Melaka,Melaka,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/32,06-2892344,06-2841590,http://hmelaka.moh.gov.my/,1091,"Jalan Mufti Haji Khalil,
+Melaka, Melaka,
+75400 Melaka,
+Melaka"
+Hospital Mersing,Mersing,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/8,07-7993333,07-7994200,http://hmersing.moh.gov.my,55,"Jalan Ismail,
+Mersing, Johor,
+86800 Mersing,
+Johor"
+Hospital Mesra Bukit Padang,Kota Kinabalu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/135,088-240984,088-244703,http://hmbp.moh.gov.my,270,"Peti Surat 11342,
+Kota Kinabalu, Sabah,
+88815 Kota Kinabalu,
+Sabah"
+Hospital Miri,Miri,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/106,085-420033,085-416514,http://hmiri.moh.gov.my,333,"Jalan Cahaya,
+Miri, Sarawak,
+98000 Miri,
+Sarawak"
+Hospital Muadzam Shah,Rompin,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/47,09-4523333,09-4523055,,49,"26700 Muadzam Shah,
+Rompin, Pahang,
+26700 Rompin,
+Pahang"
+Hospital Mukah,Mukah,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/107,084-871333,084-872212,,80,"Jalan Haji Mohamed Pauzi,
+Mukah, Sarawak,
+96400 Mukah,
+Sarawak"
+Hospital Orang Asli,Gombak,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/141,,,http://hoag.moh.gov.my/,93,"KM 24, Jalan Pahang Lama, 53100 Gombak, Selangor,
+53100 Gombak,
+Selangor"
+Hospital Pakar Sultanah Fatimah,Muar,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/9,06-9521901,06-9526003,http://hpsf.moh.gov.my/v1/index.php/ms/,550,"Jalan Salleh,
+Muar, Johor,
+84000 Muar,
+Johor"
+Hospital Papar,Papar,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/83,088-913333,088-913587,http://hpapar.moh.gov.my,77,"Peti Surat No. 6,,
+Papar, Sabah,
+89607 Papar,
+Sabah"
+Hospital Parit Buntar,Parit Buntar,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/53,05-7163333,05-7169675,http://hptar.moh.gov.my,100,"Jalan Sempadan,
+Parit Buntar, Perak,
+34200 Parit Buntar,
+Perak"
+Hospital Pasir Mas,Pasir Mas,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/26,09-7932300,09-7900996,http://hmas.moh.gov.my/,120,"Jalan Meranti,
+Pasir Mas, Kelantan,
+17000 Pasir Mas,
+Kelantan"
+Hospital Pekan,Pekan,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/45,09-4223333,09-4222280,,110,"26600 Pekan,
+Pekan, Pahang,
+26600 Pekan,
+Pahang"
+Hospital Permai,Johor Bahru,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/133,07-2373333,07-2371396,,1400,"Jalan Tampoi,
+Johor Bahru, Johor,
+81200 Johor Bahru,
+Johor"
+Hospital Pitas,Pitas,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/84,088-676100,088-611203,http://hpitas.moh.gov.my,48,"Peti Surat 88,
+Pitas, Sabah,
+89100 Pitas,
+Sabah"
+Hospital Pontian,Pontian,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/10,07-6873333,07-6876211,,120,"Jalan Alsagoff,
+Pontian, Johor,
+82000 Pontian,
+Johor"
+Hospital Port Dickson,Port Dickson,Negeri Sembilan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/36,06-6487333,06-6625003,http://hpd.moh.gov.my/,94,"KM 11, Jalan Pantai,
+Port Dickson, Negeri Sembilan,
+71050 Port Dickson,
+Negeri Sembilan"
+Hospital Pulau Pinang,Pulau Pinang,Pulau Pinang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/69,04-2225333,04-2281737,http://jknpenang.moh.gov.my/hpp/,1198,"Jalan Residensi,
+Pulau Pinang, Pulau Pinang,
+10990 Pulau Pinang,
+Pulau Pinang"
+Hospital Putrajaya,Putrajaya,WP Putrajaya,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/132,03-83124200,03-88880137,http://hpj.moh.gov.my/,341,"Pusat Pentadbiran Kerajaan Persekutuan, presint 7,
+Putrajaya, WP Putrajaya,
+62250 Putrajaya,
+WP Putrajaya"
+Hospital Queen Elizabeth,Kota Kinabalu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/76,088-517555,088-318605,http://qeh.moh.gov.my,775,"Karung Berkunci N0.2029,
+Kota Kinabalu, Sabah,
+88586 Kota Kinabalu,
+Sabah"
+Hospital Queen Elizabeth II,Kota Kinabalu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/75,088-245249,088-272454,http://hqe2.moh.gov.my,291,"Lorong Bersatu, Jalan Damai Luyang, Kota Kinabalu,
+Kota Kinabalu, Sabah,
+88300 Kota Kinabalu,
+Sabah"
+Hospital Raja Perempuan Zainab II,Kota Bharu,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/23,09-7452000,09-7486951,http://hrpz2.moh.gov.my,937,"Jalan Hospital,
+Kota Bharu, Kelantan,
+15000 Kota Bharu,
+Kelantan"
+Hospital Raja Permaisuri Bainun,Ipoh,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/56,05-2533333,05-2531541,http://hrpb.moh.gov.my,990,"Jalan Hospital,
+Ipoh, Perak,
+30400 Ipoh,
+Perak"
+Hospital Rajah Charles Brooke Memorial,Kuching,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/100,082-611123,082-616582,,20,"Bt 13, Jalan Puncak Borneo, Kota Padawan,
+Kuching, Sarawak,
+93250 Kuching,
+Sarawak"
+Hospital Ranau,Ranau,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/85,088-875266,088-875223,http://hranau.moh.gov.my,110,"Peti Surat 65,
+Ranau, Sabah,
+89300 Ranau,
+Sabah"
+Hospital Raub,Raub,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/46,09-3553333,09-3554331,,89,"Jalan Tengku Abd Samad,
+Raub, Pahang,
+27600 Raub,
+Pahang"
+Hospital Rehabilitasi Cheras,Kuala Lumpur,WP Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/144,03-91453400,03-91300560,,156,"Jalan Yaacob Latif, Bandar Tun Razak Cheras 56000 Kuala Lumpur
+WP Kuala Lumpur,
+56000 Kuala Lumpur,
+WP Kuala Lumpur"
+Hospital Rompin,Rompin,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/147,09-4141305,09-4141554,,60,"Jalan Kg Kolam Kuala Rompin
+26800 Rompin
+Pahang,
+26800 Rompin,
+Pahang"
+Hospital Saratok,Saratok,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/108,083-436311,083-436917,,106,"KM 1, Jalan Saratok,
+Saratok, Sarawak,
+95400 Saratok,
+Sarawak"
+Hospital Sarikei,Sarikei,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/109,084-653333,084-653409,http://hsarikei.moh.gov.my,212,"Jalan Rentap,
+Sarikei, Sarawak,
+96100 Sarikei,
+Sarawak"
+Hospital Seberang Jaya,Perai,Pulau Pinang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/67,04-3827333,04-3970754,http://jknpenang.moh.gov.my/hsj/,314,"Jln Tun Hussein Onn, Perai,
+Perai, Pulau Pinang,
+13700 Perai,
+Pulau Pinang"
+Hospital Segamat,Segamat,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/11,07-9433333,07-9434641,http://hsgm.moh.gov.my,314,"KM 6 Jalan Genuang,,
+Segamat, Johor,
+85000 Segamat,
+Johor"
+Hospital Selama,Selama,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/59,05-8394233,05-8394204,http://hselama.moh.gov.my,90,"Jalan Taiping,
+Selama, Perak,
+34100 Selama,
+Perak"
+Hospital Selayang,Batu Caves,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/114,03-61203233,03-61377097,http://hselayang.moh.gov.my,960,"Lebuhraya Selayang-Kepong,
+Batu Caves, Selangor,
+68100 Batu Caves,
+Selangor"
+Hospital Semporna,Semporna,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/87,089-781522,089-781659,http://hspn.moh.gov.my,70,"Peti Surat 80,
+Semporna, Sabah,
+91307 Semporna,
+Sabah"
+Hospital Sentosa,Kuching,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/136,082-612321,082-610495,,338,"Batu 7, Jalan Penenrisen,
+Kuching, Sarawak,
+93250 Kuching,
+Sarawak"
+Hospital Serdang,Kajang,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/123,03-89475555,03-89475050,http://hserdang.moh.gov.my,682,"Jalan Puchong,
+Kajang, Selangor,
+43000 Kajang,
+Selangor"
+Hospital Seri Manjung,Seri Manjung,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/61,05-689 6600,05-688 4013,http://hsmanjung.moh.gov.my,305,"Seri Manjung,
+32040 Seri Manjung,
+Perak"
+Hospital Serian,Serian,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/110,082-874311,082-875182,,84,"94700 Serian,
+Serian, Sarawak,
+94700 Serian,
+Sarawak"
+Hospital Setiu,Setiu,Terengganu,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/129,09-6090333,09-6090377,http://hsetiu.moh.gov.my,76,"Bandar Permaisuri,
+Setiu, Terengganu,
+22100 Setiu,
+Terengganu"
+Hospital Shah Alam,Shah Alam,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/145,03-5526 3000,03-5526 3202,,299,"Hospital Shah Alam
+Persiaran Kayangan, Seksyen 7
+40000 Shah Alam
+Selangor,
+40000 Shah Alam,
+Selangor"
+Hospital Sibu,Sibu,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/111,084-343333,084-337354,http://hsibu.moh.gov.my,555,"Batu 5 ½,  Jalan Ulu Oya,
+Sibu, Sarawak,
+96000 Sibu,
+Sarawak"
+Hospital Sik,Sik,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/19,04-4695333,04-4695990,http://hsik.moh.gov.my/,93,"08200 Sik,
+Sik, Kedah,
+08200 Sik,
+Kedah"
+Hospital Simunjan,Simunjan,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/112,082-803984,082-803988,,42,"Jalan Gunung Ngeli,
+Simunjan, Sarawak,
+94800 Simunjan,
+Sarawak"
+Hospital Sipitang,Sipitang,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/88,087-822296,087-822304,http://hsipitang.moh.gov.my,93,"Peti Surat 250,
+Sipitang, Sabah,
+89857 Sipitang,
+Sabah"
+Hospital Slim River,Slim River,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/49,05-4508000,05-4508001,http://hsr.moh.gov.my,140,"35800 Slim River,
+Perak"
+Hospital Sri Aman,Sri Aman,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/113,083-322151,083-323063,http://hsa.moh.gov.my,96,"Jalan Hospital,
+Sri Aman, Sarawak,
+95007 Sri Aman,
+Sarawak"
+Hospital Sultan Abdul Halim,Sungai Petani,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/14,04-4457333,04-4480092,http://hsah.moh.gov.my/,628,"Jalan Lencongan Timur Bandar Amanjaya, Sungai Petani,
+Sungai Petani, Kedah,
+08000 Sungai Petani,
+Kedah"
+Hospital Sultan Hj Ahmad Shah,Temerloh,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/48,09-2955333,09-2972468,http://hoshas.moh.gov.my,500,"Jalan Maran,
+Temerloh, Pahang,
+28000 Temerloh,
+Pahang"
+Hospital Sultan Ismail,Johor Bahru,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/3,07-3565000,07-3565088,http://hsi.moh.gov.my,704,"Jalan Persiaran Mutiara Emas Utama, Taman Miount Austin,
+Johor Bahru, Johor,
+81100 Johor Bahru,
+Johor"
+Hospital Sultan Ismail Petra,Kuala Krai,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/24,09-09611666,09-9666076,http://hsip.moh.gov.my/,150,"KM 6, Jalan Kuala Krai - Gua Musang,
+18000 Kuala Krai,
+Kelantan"
+Hospital Sultanah Aminah,Johor Bahru,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/2,07-2231666,07-2242694,http://hsajb.moh.gov.my,1206,"Johor Bahru,
+Johor Bahru, Johor,
+80100 Johor Bahru,
+Johor"
+Hospital Sultanah Bahiyah,Alor Setar,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/13,04-7406233,04-7350233,http://hsbas.moh.gov.my/,1084,"KM 6, Jln Langgar, Alor Setar,
+Alor Setar, Kedah,
+05460 Alor Setar,
+Kedah"
+Hospital Sultanah Hajjah Kalsom,Cameron Highlands,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/40,05-4913333,05-4915453,,28,"Tanah Rata,,
+Cameron Highlands, Pahang,
+39000 Cameron Highlands,
+Pahang"
+Hospital Sultanah Nora Ismail,Batu Pahat,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/1,07-4363000,07-4322544,http://hsni.moh.gov.my,516,"Jalan Korma,83000 Batu Pahat,
+Batu Pahat, Johor,
+83000 Batu Pahat,
+Johor"
+Hospital Sultanah Nur Zahirah,Kuala Terengganu,Terengganu,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/128,09-6212121,09-6221820/6221739,http://hsnzkt.moh.gov.my,1060,"Jalan Sultan Mahmud, Kuala Terengganu,
+Kuala Terengganu, Terengganu,
+20400 Kuala Terengganu,
+Terengganu"
+Hospital Sungai Bakap,Sungai Jawi,Pulau Pinang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/65,04-5824333,04-5822494,http://jknpenang.moh.gov.my/hsb/,105,"Sungai Jawi, Seberang Perai Selatan,
+Sungai Jawi, Pulau Pinang,
+14200 Sungai Jawi,
+Pulau Pinang"
+Hospital Sungai Buloh,Sungai Buluh,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/115,03-61454333,03-61454222,http://hsgbuloh.moh.gov.my,620,"Jalan Hospital,
+Sungai Buluh, Selangor,
+47000 Sungai Buluh,
+Selangor"
+Hospital Sungai Siput,Sungai Siput,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/58,05-5983333,05-5971834,http://hsgsiput.moh.gov.my,93,"Jalan Felda Lasah,
+Sungai Siput, Perak,
+31100 Sungai Siput,
+Perak"
+Hospital Taiping,Taiping,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/60,05-8204000,05-8073894,http://htaiping.moh.gov.my,608,"Jalan Taming Sari,
+Taiping, Perak,
+34000 Taiping,
+Perak"
+Hospital Tambunan,Tambunan,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/89,087-774333,087-774102,http://htbn.moh.gov.my,49,"Peti Surat 10,
+Tambunan, Sabah,
+89657 Tambunan,
+Sabah"
+Hospital Tampin,Tampin,Negeri Sembilan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/38,06-4411511,06-4419610,http://htampin.moh.gov.my/,85,"Jalan Haji Ahmad Zainuddin, Tampin,
+Tampin, Negeri Sembilan,
+73009 Tampin,
+Negeri Sembilan"
+Hospital Tanah Merah,Tanah Merah,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/28,09-9545000,09-9557929,http://hmerah.moh.gov.my/,120,"17500 Tanah Merah,
+Tanah Merah, Kelantan,
+17500 Tanah Merah,
+Kelantan"
+Hospital Tangkak,Tangkak,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/7,06-9782792,06-9786521,,69,"Jalan Hospital,  Tangkak Muar,
+Tangkak, Johor,
+84900 Tangkak,
+Johor"
+Hospital Tanjung Karang,Tanjung Karang,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/121,03-32698333,03-32695907,,114,"Tanjung Karang,
+Tanjung Karang, Selangor,
+45500 Tanjung Karang,
+Selangor"
+Hospital Tapah,Tapah,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/50,05-4011333,05-4012333,http://htapah.moh.gov.my,100,"Jalan Temoh,
+Tapah, Perak,
+35000 Tapah,
+Perak"
+Hospital Tawau,Tawau,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/90,089-773533,089-778626,http://htwu.moh.gov.my,401,"Peti Surat 80,
+Tawau, Sabah,
+91007 Tawau,
+Sabah"
+Hospital Teluk Intan,Teluk Intan,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/51,05-6213333,05-6212415,http://htintan.moh.gov.my,548,"Jalan Changkat Jong,
+Teluk Intan, Perak,
+36000 Teluk Intan,
+Perak"
+Hospital Temenggong Seri Maharaja Tun Ibrahim,Kulaijaya,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/6,07-6623333,07-6622605,,93,"Hospital Temenggong Seri Maharaja Tun Ibrahim, 81000 Kulai,
+Kulaijaya, Johor,
+81000 Kulaijaya,
+Johor"
+Hospital Tengku Ampuan Afzan,Kuantan,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/42,09-5133333,09-5142712,http://htaa.moh.gov.my/,793,"Jalan Air Putih,
+Kuantan, Pahang,
+25100 Kuantan,
+Pahang"
+Hospital Tengku Ampuan Jemaah,Sabak Bernam,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/122,03-32163333,03-32164333,http://htaj.moh.gov.my,93,"45200 Sabak Bernam,
+Sabak Bernam, Selangor,
+45200 Sabak Bernam,
+Selangor"
+Hospital Tengku Ampuan Rahimah,Klang,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/119,03 3375 7000,03 23372 9089,http://htar.moh.gov.my,1154,"Jalan Langat,41200 Klang,
+Klang, Selangor,
+41200 Klang,
+Selangor"
+Hospital Tengku Anis,Pasir Puteh,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/27,09-7843333,09-7843444,,75,"Jalan Pasir Puteh,
+Pasir Puteh, Kelantan,
+16800 Pasir Puteh,
+Kelantan"
+Hospital Tenom,Tenom,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/91,087-735577,087-735550,http://htenom.moh.gov.my,70,"Peti surat 97,
+Tenom, Sabah,
+89907 Tenom,
+Sabah"
+Hospital Tuanku Ampuan Najihah,Kuala Pilah,Negeri Sembilan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/35,06-4818001,06-4818010,http://htan.moh.gov.my,314,"KM 3 Jalan Melang,
+Kuala Pilah, Negeri Sembilan,
+72000 Kuala Pilah,
+Negeri Sembilan"
+Hospital Tuanku Fauziah,Kangar,Perlis,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/63,04-9738000,04-9767237,http://htf.moh.gov.my,476,"Jalan Kolam, 01000 Kangar,
+Kangar, Perlis,
+01000 Kangar,
+Perlis"
+Hospital Tuanku Ja'afar Seremban,Seremban,Negeri Sembilan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/37,06-7623333,06-7625771,http://htjs.moh.gov.my/,850,"Jalan Rasah,
+Seremban, Negeri Sembilan,
+70300 Seremban,
+Negeri Sembilan"
+Hospital Tuaran,Tuaran,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/92,088-788317,088-788167,http://htuaran.moh.gov.my,0,"Peti surat 996, 89207 Tuaran Sabah,
+Tuaran, Sabah,
+89207 Tuaran,
+Sabah"
+Hospital Tumpat,Tumpat,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/29,09-7263000,09-7257082,http://htumpat.moh.gov.my/,119,"Jalan Kelaburan,
+Tumpat, Kelantan,
+62000 Tumpat,
+Kelantan"
+Hospital Tunku Azizah (Wanita Dan Kanak-Kanak),Kuala Lumpur,WP Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/149,,,,0,"Jalan Raja Muda Abdul Aziz,
+Kampung Baru,
+50300 Kuala Lumpur,
+WP Kuala Lumpur"
+Hospital Umum Kuching,Kuching,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/101,082-276666,082-242751,http://hus.moh.gov.my,765,"Jalan Tun Ahmad Zaidi Adruce,
+Kuching, Sarawak,
+93586 Kuching,
+Sarawak"
+Hospital Wanita dan Kanak-Kanak Sabah,Kota Kinabalu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/77,088-522600,088-438512,http://hwkks.moh.gov.my,504,"Karung Berkunci 187,
+Kota Kinabalu, Sabah,
+88996 Kota Kinabalu,
+Sabah"
+Hospital Yan,Yan,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/20,04-4655333,04-4655960,http://hyan.moh.gov.my/,89,"Batu 25 Jalan Yan,
+Yan, Kedah,
+06900 Yan,
+Kedah"
+Institut Kanser Negara,Putrajaya  ,WP Putrajaya,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/142,03-88925555,03-88925588,,252,"No 4, Jalan P7, Presint 7
+62250 Putrajaya
+WP Putrajaya,
+62250 Putrajaya,
+WP Putrajaya"
+Institut Perubatan Respiratori,Kuala Lumpur,WP Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/138,03-40232966,03-40218807,,118,"Jalan Pahang,
+Kuala Lumpur, WP Kuala Lumpur,
+53000 Kuala Lumpur,
+WP Kuala Lumpur"
+Pusat Jantung Sarawak,Samarahan,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/146,082-668111,082-668001,,112,"Jalan Expressway Kota Samarahan
+94300 Samarahan
+Sarawak,
+94300 Samarahan,
+Sarawak"
+Pusat Kawalan Kusta Negara,Sungai Buluh,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/3/137,03-61561321,03-61562470,,110,"Sungai Buluh,
+Sungai Buluh, Selangor,
+47000 Sungai Buluh,
+Selangor"

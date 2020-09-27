@@ -1,0 +1,1452 @@
+[
+  {
+    "name": "Hospital Alor Gajah",
+    "address": "Pejabat Hospital, Hospital Alor Gajah,\nAlor Gajah, Melaka,\n78000 Alor Gajah,\nMelaka",
+    "plus": "96W2+5R Alor Gajah, Malacca",
+    "maps address": "Jalan Paya Datok / Simpang, Kampung Tepat, 78000 Alor Gajah, Melaka",
+    "notes": "",
+    "lat": 2.3954375,
+    "lng": 102.2020625,
+    "global_plus_code": "6PJ496W2+5R"
+  },
+  {
+    "name": "Hospital Ampang",
+    "address": "Jalan Mewah Utara,\nAmpang, Selangor,\n68000 Ampang,\nSelangor",
+    "plus": "4QH7+7J Ampang Jaya, Selangor",
+    "maps address": "Hospital Ampang, Jalan Mewah Utara, Taman Pandan Mewah, 68000 Ampang Jaya, Selangor",
+    "notes": "",
+    "lat": 3.1281875,
+    "lng": 101.7640625,
+    "global_plus_code": "6PM34QH7+7J"
+  },
+  {
+    "name": "Hospital Bahagia Ulu Kinta",
+    "address": "Tanjong Rambutan,\nUlu Kinta, Perak,\n31250 Ulu Kinta,\nPerak",
+    "plus": "M5G2+67 Tanjung Rambutan, Perak",
+    "maps address": "Jalan Besar, 31250 Tanjung Rambutan, Negeri Perak",
+    "notes": "",
+    "lat": 4.6755625,
+    "lng": 101.1506875,
+    "global_plus_code": "6PP3M5G2+67"
+  },
+  {
+    "name": "Hospital Balik Pulau",
+    "address": "Balik Pulau,\nBalik Pulau, Pulau Pinang,\n11000 Balik Pulau,\nPulau Pinang",
+    "plus": "962M+37 Balik Pulau, Penang",
+    "maps address": "Jalan Balik Pulau, 11000 Balik Pulau, Pulau Pinang",
+    "notes": "",
+    "lat": 5.3501875,
+    "lng": 100.2331875,
+    "global_plus_code": "6PQ2962M+37"
+  },
+  {
+    "name": "Hospital Baling",
+    "address": "Jala Hospital,\nBaling, Kedah,\n09100 Baling,\nKedah",
+    "plus": "MWHG+G2 Baling, Kedah",
+    "maps address": "Baling, 09100 Baling, Kedah",
+    "notes": "",
+    "lat": 5.678812499999999,
+    "lng": 100.9250625,
+    "global_plus_code": "6PQ2MWHG+G2"
+  },
+  {
+    "name": "Hospital Banting",
+    "address": "Jalan Sultan Alam Shah,\nBanting, Selangor,\n42700 Banting,\nSelangor",
+    "plus": "RF3V+4G Banting, Selangor",
+    "maps address": "Jalan Sultan Alam Shah, 42700 Banting, Selangor",
+    "notes": "",
+    "lat": 2.8028125,
+    "lng": 101.4938125,
+    "global_plus_code": "6PJ3RF3V+4G"
+  },
+  {
+    "name": "Hospital Batu Gajah",
+    "address": "Jalan Changkat,\nBatu Gajah, Perak,\n31000 Batu Gajah,\nPerak",
+    "plus": "F2HP+Q2 Batu Gajah, Perak",
+    "maps address": "Hospital Batu Gajah Jalan Changkat Batu Gajah, Jalan Hospital, Batu Gajah, Negeri Perak",
+    "notes": "",
+    "lat": 4.4794375,
+    "lng": 101.0350625,
+    "global_plus_code": "6PP3F2HP+Q2"
+  },
+  {
+    "name": "Hospital Bau",
+    "address": "Batu 1 ½,  Jalan Bau-Lundu,\nBau, Sarawak,\n94000 Bau,\nSarawak",
+    "plus": "C4HV+R3 Bau, Sarawak",
+    "maps address": "Batu 1 1/2, Jalan Bau-Lundu, Bau, Kuching, 94000, Bau, Sarawak",
+    "notes": "",
+    "lat": 1.4295625,
+    "lng": 110.1426875,
+    "global_plus_code": "6PHGC4HV+R3"
+  },
+  {
+    "name": "Hospital Beaufort",
+    "address": "Peti Surat 40,\nBeaufort, Sabah,\n89807 Beaufort,\nSabah",
+    "plus": "9P2R+H9 Beaufort, Sabah",
+    "maps address": "Hospital Beaufort, Peti Surat 40, Beaufort, 89807, Beaufort, Sabah",
+    "notes": "",
+    "lat": 5.351437499999999,
+    "lng": 115.7409375,
+    "global_plus_code": "6PQQ9P2R+H9"
+  },
+  {
+    "name": "Hospital Beluran",
+    "address": "Karung Berkunci No : 02,\nBeluran, Sabah,\n90109 Beluran,\nSabah",
+    "plus": "VHV4+95 Pamol, Sabah",
+    "maps address": "Beg Berkunci 2, Beluran, 90109, Beluran, Sabah",
+    "notes": "",
+    "lat": 5.8934375,
+    "lng": 117.5554375,
+    "global_plus_code": "6PQVVHV4+95"
+  },
+  {
+    "name": "Hospital Bentong",
+    "address": "28700 Bentong,\nBentong, Pahang,\n28700 Bentong,\nPahang",
+    "plus": "GWG4+46 Bentong, Pahang",
+    "maps address": "Jalan Padang, 28700 Bentong, Pahang",
+    "notes": "",
+    "lat": 3.5253125,
+    "lng": 101.9055625,
+    "global_plus_code": "6PM3GWG4+46"
+  },
+  {
+    "name": "Hospital Besut",
+    "address": "Jalan Pasir Akar, Jerteh,\nBesut, Terengganu,\n22000 Besut,\nTerengganu",
+    "plus": "PFHR+JJ Besut, Terengganu",
+    "maps address": "Jerteh, Kampung Alor Keladi, Terengganu, 22000 Besut",
+    "notes": "",
+    "lat": 5.7290625,
+    "lng": 102.4915625,
+    "global_plus_code": "6PQ4PFHR+JJ"
+  },
+  {
+    "name": "Hospital Betong",
+    "address": "Jalan Betong,\nBetong, Sarawak,\n95707 Betong,\nSarawak",
+    "plus": "9HFF+HG Betong, Sarawak",
+    "maps address": "Betong, 95700 Betong, Sarawak",
+    "notes": "",
+    "lat": 1.3739375,
+    "lng": 111.5738125,
+    "global_plus_code": "6PHH9HFF+HG"
+  },
+  {
+    "name": "Hospital Bintulu",
+    "address": "Jalan Nyabau,\nBintulu, Sarawak,\n97000 Bintulu,\nSarawak",
+    "plus": "64H2+VC Tanjung Kidurong, Sarawak",
+    "maps address": "Jalan Bkt Nyabau, 97000 Bintulu, Sarawak",
+    "notes": "",
+    "lat": 3.2296875,
+    "lng": 113.1010625,
+    "global_plus_code": "6PMM64H2+VC"
+  },
+  {
+    "name": "Hospital Bukit Mertajam",
+    "address": "Jalan Kulim, Bukit Mertajam,\nBukit Mertajam, Pulau Pinang,\n14000 Bukit Mertajam,\nPulau Pinang",
+    "plus": "9F57+PJ Bukit Mertajam, Penang",
+    "maps address": "Jalan Kulim, 14000 Bukit Mertajam, Pulau Pinang",
+    "notes": "",
+    "lat": 5.3593125,
+    "lng": 100.4640625,
+    "global_plus_code": "6PQ29F57+PJ"
+  },
+  {
+    "name": "Hospital Changkat Melintang",
+    "address": "Lambor Kanan,Parit,\nBota, Perak,\n32900 Bota,\nPerak",
+    "plus": "8W76+55 Bota, Perak",
+    "maps address": "Hospital Changkat Melintang Lambor Kanan,Parit Perak 32900, 32600 Bota, Perak",
+    "notes": "",
+    "lat": 4.312937499999999,
+    "lng": 100.9104375,
+    "global_plus_code": "6PP28W76+55"
+  },
+  {
+    "name": "Hospital Dalat",
+    "address": "Jalan Oya-Dalat,\nDalat, Sarawak,\n96300 Dalat,\nSarawak",
+    "plus": "PWWW+3C Pekan Dalat, Dalat, Sarawak",
+    "maps address": "Jalan Oya - Dalat, Pekan Dalat, 96300 Dalat, Sarawak",
+    "notes": "",
+    "lat": 2.7451875,
+    "lng": 111.9460625,
+    "global_plus_code": "6PJHPWWW+3C"
+  },
+  {
+    "name": "Hospital Daro",
+    "address": "Jalan Itol,\nDaro, Sarawak,\n96200 Daro,\nSarawak",
+    "plus": "GCC7+P7 Daro, Sarawak",
+    "maps address": "Jalan Itol Daro, Sarawak 96200 Daro Sarawak",
+    "notes": "",
+    "lat": 2.5218125,
+    "lng": 111.4131875,
+    "global_plus_code": "6PJHGCC7+P7"
+  },
+  {
+    "name": "Hospital Duchess Of Kent",
+    "address": "KM 3.2, Jalan Utara,\nSandakan, Sabah,\n90000 Sandakan,\nSabah",
+    "plus": "V453+C9 Taman Yeng Seng, Sandakan, Sabah",
+    "maps address": "KM 3.2, Jalan Utara, 90000 Sandakan, Sabah",
+    "notes": "",
+    "lat": 5.8585625,
+    "lng": 118.1034375,
+    "global_plus_code": "6PQWV453+C9"
+  },
+  {
+    "name": "Hospital Dungun",
+    "address": "Hospital Dungun,\nDungun, Terengganu,\n23000 Dungun,\nTerengganu",
+    "plus": "QC27+QW Kuala Dungun, Terengganu",
+    "maps address": "Jalan Paka, 23000 Kuala Dungun, Terengganu",
+    "notes": "",
+    "lat": 4.751937499999999,
+    "lng": 103.4148125,
+    "global_plus_code": "6PP5QC27+QW"
+  },
+  {
+    "name": "Hospital Enche' Besar Hajjah Kalsom, Kluang",
+    "address": "KM 5, Jln Kota Tinggi,\n,\n86000 Kluang,\nJohor",
+    "plus": "285W+6R Kluang, Johor",
+    "maps address": "Hospital Enche' Besar Hajjah Khalsom, Kluang KM 5, 91, 86000 Kluang, Johor",
+    "notes": "",
+    "lat": 2.0080625,
+    "lng": 103.3470625,
+    "global_plus_code": "6PJ5285W+6R"
+  },
+  {
+    "name": "Hospital Gerik",
+    "address": "Jalan Intan,\nGrik, Perak,\n33000 Grik,\nPerak",
+    "plus": "C4HH+J5 Gerik, Perak",
+    "maps address": "Jalan Intan, Pekan Gerik, 33300 Gerik, Negeri Perak",
+    "notes": "",
+    "lat": 5.4290625,
+    "lng": 101.1279375,
+    "global_plus_code": "6PQ3C4HH+J5"
+  },
+  {
+    "name": "Hospital Gua Musang",
+    "address": "Bandar Baru,\nGua Musang, Kelantan,\n18300 Gua Musang,\nKelantan",
+    "plus": "VX53+VW Gua Musang, Kelantan",
+    "maps address": "Bandar Baru Gua Musang, 18300 Gua Musang, Kelantan",
+    "notes": "",
+    "lat": 4.8596875,
+    "lng": 101.9548125,
+    "global_plus_code": "6PP3VX53+VW"
+  },
+  {
+    "name": "Hospital Hulu Terengganu",
+    "address": "Batu 23, Jalan Kuala Berang,\nKuala Berang, Terengganu,\n21700 Kuala Berang,\nTerengganu",
+    "plus": "32FV+7W Kuala Berang, Terengganu",
+    "maps address": "Batu 23, Jalan Kuala Berang, Kampung Batu 23, 21700 Kuala Berang, Terengganu",
+    "notes": "",
+    "lat": 5.0731875,
+    "lng": 103.0448125,
+    "global_plus_code": "6PQ532FV+7W"
+  },
+  {
+    "name": "Hospital Jasin",
+    "address": "77000 Jasin,\nJasin, Melaka,\n77000 Jasin,\nMelaka",
+    "plus": "8C3H+X9 Jasin, Malacca",
+    "maps address": "Hospital Utama, 77000 Jasin, Melaka",
+    "notes": "",
+    "lat": 2.3049375,
+    "lng": 102.4284375,
+    "global_plus_code": "6PJ48C3H+X9"
+  },
+  {
+    "name": "Hospital Jelebu",
+    "address": "71600 Jelebu,\nJelebu, Negeri Sembilan,\n71600 Jelebu,\nNegeri Sembilan",
+    "plus": "X325+4J Kuala Klawang, Negeri Sembilan",
+    "maps address": "Taman Bukit Petaling, 71600 Kuala Klawang, Negeri Sembilan",
+    "notes": "",
+    "lat": 2.9503125,
+    "lng": 102.0590625,
+    "global_plus_code": "6PJ4X325+4J"
+  },
+  {
+    "name": "Hospital Jeli",
+    "address": "17600 Jeli,\nJeli, Kelantan,\n17600 Jeli,\nKelantan",
+    "plus": "PR2V+GP Jeli, Kelantan",
+    "maps address": "Bandar Jeli, 17600 Jeli, Kelantan",
+    "notes": "",
+    "lat": 5.701312499999999,
+    "lng": 101.8443125,
+    "global_plus_code": "6PQ3PR2V+GP"
+  },
+  {
+    "name": "Hospital Jempol",
+    "address": "Bandar Seri Jempol,\nBandar Seri Jempol, Negeri Sembilan,\n72120 Bandar Seri Jempol,\nNegeri Sembilan",
+    "plus": "WC34+8C Bandar Seri Jempol, Negeri Sembilan",
+    "maps address": "Hospital Jempol, 72120 Bandar Seri Jempol, Negeri Sembilan",
+    "notes": "",
+    "lat": 2.9033125,
+    "lng": 102.4060625,
+    "global_plus_code": "6PJ4WC34+8C"
+  },
+  {
+    "name": "Hospital Jengka",
+    "address": "26400 Bandar Jengka,\nMaran, Pahang,\n26400 Maran,\nPahang",
+    "plus": "QHF2+7M Bandar Tun Razak, Pahang",
+    "maps address": "Hospital Jengka, Bandar Jengka Maran, 26400 Bandar Tun Razak, Pahang",
+    "notes": "",
+    "lat": 3.7731875,
+    "lng": 102.5516875,
+    "global_plus_code": "6PM4QHF2+7M"
+  },
+  {
+    "name": "Hospital Jerantut",
+    "address": "27000 Jerantut,\nJerantut, Pahang,\n27000 Jerantut,\nPahang",
+    "plus": "W9H6+P3 Taman Jaya, Jerantut, Pahang",
+    "maps address": "Taman Jaya, 27000 Jerantut, Pahang",
+    "notes": "",
+    "lat": 3.9293125,
+    "lng": 102.3601875,
+    "global_plus_code": "6PM4W9H6+P3"
+  },
+  {
+    "name": "Hospital Jitra",
+    "address": "Jalan Changlun, Jitra Kedah,\nJitra, Kedah,\n06000 Jitra,\nKedah",
+    "plus": "7CH9+GJ Jitra, Kedah",
+    "maps address": "Pekan Jitra, 06000 Jitra, Kedah",
+    "notes": "",
+    "lat": 6.2788125,
+    "lng": 100.4190625,
+    "global_plus_code": "6PR27CH9+GJ"
+  },
+  {
+    "name": "Hospital Kajang",
+    "address": "Jalan Semenyih,\nKajang, Selangor,\n43000 Kajang,\nSelangor",
+    "plus": "XQVV+44 Kajang, Selangor",
+    "maps address": "4, Jalan Semenyih, Bandar Kajang, 43000 Kajang, Selangor",
+    "notes": "",
+    "lat": 2.9928125,
+    "lng": 101.7928125,
+    "global_plus_code": "6PJ3XQVV+44"
+  },
+  {
+    "name": "Hospital Kampar",
+    "address": "Jalan Hospital,\nKampar, Perak,\n31500 Kampar,\nPerak",
+    "plus": "8564+QG Kampar, Perak",
+    "maps address": "Jalan Hospital, Kampung Masjid, 31900 Kampar, Negeri Perak",
+    "notes": "",
+    "lat": 4.3119375,
+    "lng": 101.1563125,
+    "global_plus_code": "6PP38564+QG"
+  },
+  {
+    "name": "Hospital Kanowit",
+    "address": "Jalan Kanowit/ Durin,\nKanowit, Sarawak,\n96700 Kanowit,\nSarawak",
+    "plus": "4532+4W Kanowit, Sarawak",
+    "maps address": "Jalan Kanowit / Durin, 96700 Kanowit, Sarawak",
+    "notes": "",
+    "lat": 2.1028125,
+    "lng": 112.1523125,
+    "global_plus_code": "6PJJ4532+4W"
+  },
+  {
+    "name": "Hospital Kapit",
+    "address": "Jalan Memora,\nKapit, Sarawak,\n96800 Kapit,\nSarawak",
+    "plus": "6PJJ2W7V+G3",
+    "maps address": "Jalan Mamora, 96800 Kapit, Sarawak",
+    "notes": "",
+    "lat": 2.0138125,
+    "lng": 112.9426875,
+    "global_plus_code": "6PJJ2W7V+G3"
+  },
+  {
+    "name": "Hospital Kemaman",
+    "address": "Jalan Da' Omar, Cukai,\nKemaman, Terengganu,\n24000 Kemaman,\nTerengganu",
+    "plus": "6CJC+Q4 Chukai, Terengganu",
+    "maps address": "Jalan Da' Omar, Cukai, 24000 Kemaman, Terengganu",
+    "notes": "",
+    "lat": 4.2319375,
+    "lng": 103.4203125,
+    "global_plus_code": "6PP56CJC+Q4"
+  },
+  {
+    "name": "Hospital Keningau",
+    "address": "Peti Surat 11,\nKeningau, Sabah,\n89007 Keningau,\nSabah",
+    "plus": "95CJ+3Q Kampung Tuarid Taud, Keningau, Sabah",
+    "maps address": "Peti Surat, 11, 89007 Keningau, Sabah",
+    "notes": "",
+    "lat": 5.3701875,
+    "lng": 116.1819375,
+    "global_plus_code": "6PQR95CJ+3Q"
+  },
+  {
+    "name": "Hospital Kepala Batas",
+    "address": "Jalan Bertam, Kepala Batas,\nKepala Batas, Pulau Pinang,\n13200 Kepala Batas,\nPulau Pinang",
+    "plus": "GC7P+3J Kepala Batas, Penang",
+    "maps address": "Jalan Bertam 2, 13200 Kepala Batas, Pulau Pinang",
+    "notes": "",
+    "lat": 5.5126875,
+    "lng": 100.4365625,
+    "global_plus_code": "6PQ2GC7P+3J"
+  },
+  {
+    "name": "Hospital Kinabatangan",
+    "address": "W.D.T 200,\nKinabatangan, Sabah,\n90020 Kinabatangan,\nSabah",
+    "plus": "HVM2+X5 Pekan Kota Kinabatangan, Kinabatangan, Sabah",
+    "maps address": "W.D.T 200 Kinabatangan,, 90200 Kinabatangan, Sabah",
+    "notes": "",
+    "lat": 5.5849375,
+    "lng": 117.8504375,
+    "global_plus_code": "6PQVHVM2+X5"
+  },
+  {
+    "name": "Hospital Kota Belud",
+    "address": "Peti Surat 159,\nKota Belud, Sabah,\n89158 Kota Belud,\nSabah",
+    "plus": "8CWG+FF Kota Belud, Sabah",
+    "maps address": "jalan hospital, 89158 Kota Belud, Sabah",
+    "notes": "",
+    "lat": 6.346187500000001,
+    "lng": 116.4261875,
+    "global_plus_code": "6PRR8CWG+FF"
+  },
+  {
+    "name": "Hospital Kota Marudu",
+    "address": "Peti Surat 255,\nKota Marudu, Sabah,\n89108 Kota Marudu,\nSabah",
+    "plus": "FQ4G+WC Kota Marudu, Sabah",
+    "maps address": "Peti Surat 255, 89100 Kota Marudu, Sabah",
+    "notes": "",
+    "lat": 6.4573125,
+    "lng": 116.7760625,
+    "global_plus_code": "6PRRFQ4G+WC"
+  },
+  {
+    "name": "Hospital Kota Tinggi",
+    "address": "Jalan Tun Habah,\nKota Tinggi, Johor,\n81900 Kota Tinggi,\nJohor",
+    "plus": "PVMX+XQ Kota Tinggi, Johor",
+    "maps address": "Jalan Tun Habab, Pekan Kota Tinggi, 81900 Kota Tinggi, Johor",
+    "notes": "",
+    "lat": 1.7349375,
+    "lng": 103.8994375,
+    "global_plus_code": "6PH5PVMX+XQ"
+  },
+  {
+    "name": "Hospital Kuala Kangsar",
+    "address": "Jalan Sultan Idris Shah 1,\nKuala Kangsar, Perak,\n33000 Kuala Kangsar,\nPerak",
+    "plus": "QWFJ+6Q Kuala Kangsar, Perak",
+    "maps address": "1648 Jalan Sultan Idris Shah, 1, Taman Mawar, 33000 Kuala Kangsar, Negeri Perak",
+    "notes": "",
+    "lat": 4.7730625,
+    "lng": 100.9319375,
+    "global_plus_code": "6PP2QWFJ+6Q"
+  },
+  {
+    "name": "Hospital Kuala Kubu Bharu",
+    "address": "Jalan Hospital,\nKuala Kubu Bharu, Selangor,\n44000 Kuala Kubu Bharu,\nSelangor",
+    "plus": "HM73+M6 Kuala Kubu Bharu, Selangor",
+    "maps address": "Jalan Hospital, Pekan Kuala Kubu Bharu, 44000 Kuala Kubu Baru, Selangor",
+    "notes": "",
+    "lat": 3.5641875,
+    "lng": 101.6530625,
+    "global_plus_code": "6PM3HM73+M6"
+  },
+  {
+    "name": "Hospital Kuala Lipis",
+    "address": "27200 K.Lipis,\nKuala Lipis, Pahang,\n27200 Kuala Lipis,\nPahang",
+    "plus": "53M4+26 Kampung Tanjung Lipis, Kuala Lipis, Pahang",
+    "maps address": "27200 Kuala Lipis, Pahang",
+    "notes": "",
+    "lat": 4.1825625,
+    "lng": 102.0555625,
+    "global_plus_code": "6PP453M4+26"
+  },
+  {
+    "name": "Hospital Kuala Lumpur",
+    "address": "Jalan Pahang,\nKuala Lumpur, WP Kuala Lumpur,\n50586 Kuala Lumpur,\nWP Kuala Lumpur",
+    "plus": "5MCX+VH Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "maps address": "23, Jalan Pahang, 50586 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "notes": "",
+    "lat": 3.1721875,
+    "lng": 101.6989375,
+    "global_plus_code": "6PM35MCX+VH"
+  },
+  {
+    "name": "Hospital Kuala Nerang",
+    "address": "Kuala Nerang,\nKuala Nerang, Kedah,\n06300 Kuala Nerang,\nKedah",
+    "plus": "7J35+3W Kuala Nerang, Kedah",
+    "maps address": "Kuala Nerang, 06300 Kuala Nerang, Kedah",
+    "notes": "",
+    "lat": 6.2526875,
+    "lng": 100.6098125,
+    "global_plus_code": "6PR27J35+3W"
+  },
+  {
+    "name": "Hospital Kuala Penyu",
+    "address": "W.D.T. 35,\nKuala Penyu, Sabah,\n89740 Kuala Penyu,\nSabah",
+    "plus": "HH6P+46 Kuala Penyu, Sabah",
+    "maps address": "89740 Kuala Penyu, Sabah",
+    "notes": "",
+    "lat": 5.560312499999999,
+    "lng": 115.5855625,
+    "global_plus_code": "6PQQHH6P+46"
+  },
+  {
+    "name": "Hospital Kudat",
+    "address": "Peti Surat 22,\nKudat, Sabah,\n89057 Kudat,\nSabah",
+    "plus": "WR4Q+M5 Kudat, Sabah",
+    "maps address": "Peti Surat 22, 89057 Kudat, Sabah",
+    "notes": "",
+    "lat": 6.906687499999999,
+    "lng": 116.8379375,
+    "global_plus_code": "6PRRWR4Q+M5"
+  },
+  {
+    "name": "Hospital Kulim",
+    "address": "Jalan Mahang, Kulim,\nKulim, Kedah,\n09000 Kulim,\nKedah",
+    "plus": "9HVF+76 Kulim, Kedah",
+    "maps address": "Lebuh Taman Perindustrian, Taman Kulim Hi-tech, 09090 Kulim, Kedah",
+    "notes": "",
+    "lat": 5.3931875,
+    "lng": 100.5730625,
+    "global_plus_code": "6PQ29HVF+76"
+  },
+  {
+    "name": "Hospital Kunak",
+    "address": "W.D.T. 150,\nKunak, Sabah,\n91209 Kunak,\nSabah",
+    "plus": "M6GJ+RW Kunak, Sabah",
+    "maps address": "W.D.T 150, Pekan Kunak, 91209 Kunak, Sabah",
+    "notes": "",
+    "lat": 4.6770625,
+    "lng": 118.2323125,
+    "global_plus_code": "6PPWM6GJ+RW"
+  },
+  {
+    "name": "Hospital Labuan",
+    "address": "Peti Surat 81006,\nLabuan, WP Labuan,\n87020 Labuan,\nWP Labuan",
+    "plus": "866J+F2 Labuan, Labuan Federal Territory",
+    "maps address": "Peti Surat 81006 Labuan, WP Labuan",
+    "notes": "",
+    "lat": 5.3111875,
+    "lng": 115.2300625,
+    "global_plus_code": "6PQQ866J+F2"
+  },
+  {
+    "name": "Hospital Lahad Datu",
+    "address": "Peti Surat 60065,\nLahad Datu, Sabah,\n91110 Lahad Datu,\nSabah",
+    "plus": "28G7+MF Kampung Tabanak, Lahad Datu, Sabah",
+    "maps address": "Jln Lahad Datu - Tawau, 91100 Lahad Datu, Sabah",
+    "notes": "",
+    "lat": 5.0266875,
+    "lng": 118.3136875,
+    "global_plus_code": "6PQW28G7+MF"
+  },
+  {
+    "name": "Hospital Langkawi",
+    "address": "Bukit Tekuh,Jalan Padang Maksirat,\nLangkawi, Kedah,\n07000 Langkawi,\nKedah",
+    "plus": "8QFX+W9 Langkawi, Kedah",
+    "maps address": "Jalan Bukit, 07000 Langkawi, Kedah",
+    "notes": "Name is different in maps and in moh table",
+    "lat": 6.324812499999999,
+    "lng": 99.79843749999999,
+    "global_plus_code": "6MRX8QFX+W9"
+  },
+  {
+    "name": "Hospital Lawas",
+    "address": "Jalan Hospital,\nLawas, Sarawak,\n98850 Lawas,\nSarawak",
+    "plus": "VC33+QR Sundar, Sarawak",
+    "maps address": "Jalan Hospital, 98850 Lawas, Sarawak",
+    "notes": "",
+    "lat": 4.8544375,
+    "lng": 115.4045625,
+    "global_plus_code": "6PPQVC33+QR"
+  },
+  {
+    "name": "Hospital Limbang",
+    "address": "Jalan Pandaruan,\nLimbang, Sarawak,\n98700 Limbang,\nSarawak",
+    "plus": "Q279+PJ Pekan Limbang, Limbang, Sarawak",
+    "maps address": "Jalan Pandaruan, 98700 Limbang, Sarawak",
+    "notes": "",
+    "lat": 4.764312500000001,
+    "lng": 115.0190625,
+    "global_plus_code": "6PPQQ279+PJ"
+  },
+  {
+    "name": "Hospital Lundu",
+    "address": "Jalan Sekambal,\nLundu, Sarawak,\n94500 Lundu,\nSarawak",
+    "plus": "MVG3+64 Lundu, Sarawak",
+    "maps address": "94500 Lundu, Sarawak",
+    "notes": "",
+    "lat": 1.6755625,
+    "lng": 109.8528125,
+    "global_plus_code": "6PHFMVG3+64"
+  },
+  {
+    "name": "Hospital Machang",
+    "address": "Jalan Pasir Puteh,\nMachang, Kelantan,\n18500 Machang,\nKelantan",
+    "plus": "Q67G+78 Machang, Kelantan",
+    "maps address": "D18 Jalan Pasir Puteh, Kampung Bukit Tiu, 18500 Machang, Kelantan",
+    "notes": "",
+    "lat": 5.7631875,
+    "lng": 102.2258125,
+    "global_plus_code": "6PQ4Q67G+78"
+  },
+  {
+    "name": "Hospital Marudi",
+    "address": "Jalan Pungor,\nMarudi, Sarawak,\n98050 Marudi,\nSarawak",
+    "plus": "58HG+94 Baram, Sarawak",
+    "maps address": "Hospital Marudi, Jalan Pungor, Marudi, 98050, Baram, Sarawak",
+    "notes": "",
+    "lat": 4.1784375,
+    "lng": 114.3253125,
+    "global_plus_code": "6PPP58HG+94"
+  },
+  {
+    "name": "Hospital Melaka",
+    "address": "Jalan Mufti Haji Khalil,\nMelaka, Melaka,\n75400 Melaka,\nMelaka",
+    "plus": "6796+HJ Malacca",
+    "maps address": "Jalan Mufti Haji Khalil, 75400 Melaka",
+    "notes": "",
+    "lat": 2.2189375,
+    "lng": 102.2615625,
+    "global_plus_code": "6PJ46796+HJ"
+  },
+  {
+    "name": "Hospital Mersing",
+    "address": "Jalan Ismail,\nMersing, Johor,\n86800 Mersing,\nJohor",
+    "plus": "CRHW+Q4 Mersing Kechil, Mersing, Johor",
+    "maps address": "Jalan Ismail, Mersing Kechil, 86800 Mersing, Johor",
+    "notes": "",
+    "lat": 2.4294375,
+    "lng": 103.8453125,
+    "global_plus_code": "6PJ5CRHW+Q4"
+  },
+  {
+    "name": "Hospital Mesra Bukit Padang",
+    "address": "Peti Surat 11342,\nKota Kinabalu, Sabah,\n88815 Kota Kinabalu,\nSabah",
+    "plus": "X424+54 Kota Kinabalu, Sabah",
+    "maps address": "PS 11342, Bukit Padang, Kota Kinabalu, Sabah, 88815 Kota Kinabalu",
+    "notes": "",
+    "lat": 5.9504375,
+    "lng": 116.1053125,
+    "global_plus_code": "6PQRX424+54"
+  },
+  {
+    "name": "Hospital Miri",
+    "address": "Jalan Cahaya,\nMiri, Sarawak,\n98000 Miri,\nSarawak",
+    "plus": "9XFX+QM Kampung Lopeng Tengah, Miri, Sarawak",
+    "maps address": "Jalan Cahaya, 98000 Miri, Sarawak",
+    "notes": "",
+    "lat": 4.3744375,
+    "lng": 113.9991875,
+    "global_plus_code": "6PPM9XFX+QM"
+  },
+  {
+    "name": "Hospital Muadzam Shah",
+    "address": "26700 Muadzam Shah,\nRompin, Pahang,\n26700 Rompin,\nPahang",
+    "plus": "333R+G9 Muadzam Shah, Pahang",
+    "maps address": "Jalan Kemajuan, 26810 Muadzam Shah, Pahang",
+    "notes": "postcode is different",
+    "lat": 3.0538125,
+    "lng": 103.0909375,
+    "global_plus_code": "6PM5333R+G9"
+  },
+  {
+    "name": "Hospital Mukah",
+    "address": "Jalan Haji Mohamed Pauzi,\nMukah, Sarawak,\n96400 Mukah,\nSarawak",
+    "plus": "W32G+8G Mukah, Sarawak",
+    "maps address": "Jln Hj Mohd Fauzi, 96400 Mukah, Sarawak",
+    "notes": "",
+    "lat": 2.9008125,
+    "lng": 112.0763125,
+    "global_plus_code": "6PJJW32G+8G"
+  },
+  {
+    "name": "Hospital Orang Asli",
+    "address": "KM 24, Jalan Pahang Lama, 53100 Gombak, Selangor,\n,\n53100 Gombak,\nSelangor",
+    "plus": "7PRJ+Q9 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "maps address": "KM 24, Jalan Gombak, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "notes": "Name is different on Google Maps",
+    "lat": 3.2919375,
+    "lng": 101.7309375,
+    "global_plus_code": "6PM37PRJ+Q9"
+  },
+  {
+    "name": "Hospital Pakar Sultanah Fatimah",
+    "address": "Jalan Salleh,\nMuar, Johor,\n84000 Muar,\nJohor",
+    "plus": "3H4F+RQ Muar, Johor",
+    "maps address": "Jln Salleh, Taman Utama Satu, 84000 Muar, Johor",
+    "notes": "",
+    "lat": 2.0570625,
+    "lng": 102.5744375,
+    "global_plus_code": "6PJ43H4F+RQ"
+  },
+  {
+    "name": "Hospital Papar",
+    "address": "Peti Surat No. 6,,\nPapar, Sabah,\n89607 Papar,\nSabah",
+    "plus": "PWGF+PG Papar, Sabah",
+    "maps address": "Jalan New Hospital, Papar, 89600 Kota Kinabalu, Sabah",
+    "notes": "Postcode is different",
+    "lat": 5.726812499999999,
+    "lng": 115.9238125,
+    "global_plus_code": "6PQQPWGF+PG"
+  },
+  {
+    "name": "Hospital Parit Buntar",
+    "address": "Jalan Sempadan,\nParit Buntar, Perak,\n34200 Parit Buntar,\nPerak",
+    "plus": "4FJM+CF Parit Buntar, Perak",
+    "maps address": "Jalan Sempadan, Kampung Permatang Tok Mamat, 34200 Parit Buntar, Negeri Perak",
+    "notes": "",
+    "lat": 5.1310625,
+    "lng": 100.4836875,
+    "global_plus_code": "6PQ24FJM+CF"
+  },
+  {
+    "name": "Hospital Pasir Mas",
+    "address": "Jalan Meranti,\nPasir Mas, Kelantan,\n17000 Pasir Mas,\nKelantan",
+    "plus": "2479+HH Pasir Mas, Kelantan",
+    "maps address": "Jalan Meranti Pasir Mas, Kelantan 17000 Pasir Mas Kelantan",
+    "notes": "",
+    "lat": 6.0139375,
+    "lng": 102.1189375,
+    "global_plus_code": "6PR42479+HH"
+  },
+  {
+    "name": "Hospital Pekan",
+    "address": "26600 Pekan,\nPekan, Pahang,\n26600 Pekan,\nPahang",
+    "plus": "G92J+W2 Kampung Mengkasar, Pekan, Pahang",
+    "maps address": "Jalan Batu Balik, Kampung Mengkasar, 26600 Pekan, Pahang",
+    "notes": "",
+    "lat": 3.5023125,
+    "lng": 103.3800625,
+    "global_plus_code": "6PM5G92J+W2"
+  },
+  {
+    "name": "Hospital Permai",
+    "address": "Jalan Tampoi,\nJohor Bahru, Johor,\n81200 Johor Bahru,\nJohor",
+    "plus": "GPF4+76 Johor Bahru, Johor",
+    "maps address": "Persiaran Kempas Baru, Kempas Banjaran, 81200 Johor Bahru, Johor",
+    "notes": "",
+    "lat": 1.5231875,
+    "lng": 103.7055625,
+    "global_plus_code": "6PH5GPF4+76"
+  },
+  {
+    "name": "Hospital Pitas",
+    "address": "Peti Surat 88,\nPitas, Sabah,\n89100 Pitas,\nSabah",
+    "plus": "P26H+QV Kota Marudu, Sabah",
+    "maps address": "Jalan Hospital, Pitas, 89100 Kota Marudu, Sabah",
+    "notes": "",
+    "lat": 6.711937499999999,
+    "lng": 117.0296875,
+    "global_plus_code": "6PRVP26H+QV"
+  },
+  {
+    "name": "Hospital Pontian",
+    "address": "Jalan Alsagoff,\nPontian, Johor,\n82000 Pontian,\nJohor",
+    "plus": "F9XP+93 Pontian District, Johor",
+    "maps address": "Jln. Alsagoff, Kampung Dalam, 82000 Pontian, Johor",
+    "notes": "",
+    "lat": 1.4984375,
+    "lng": 103.3851875,
+    "global_plus_code": "6PH5F9XP+93"
+  },
+  {
+    "name": "Hospital Port Dickson",
+    "address": "KM 11, Jalan Pantai,\nPort Dickson, Negeri Sembilan,\n71050 Port Dickson,\nNegeri Sembilan",
+    "plus": "FVH4+32 Port Dickson, Negeri Sembilan",
+    "maps address": "KM 11,, Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
+    "notes": "",
+    "lat": 2.4776875,
+    "lng": 101.8550625,
+    "global_plus_code": "6PJ3FVH4+32"
+  },
+  {
+    "name": "Hospital Pulau Pinang",
+    "address": "Jalan Residensi,\nPulau Pinang, Pulau Pinang,\n10990 Pulau Pinang,\nPulau Pinang",
+    "plus": "C886+RH George Town, Penang",
+    "maps address": "Jalan Residensi, 10990 George Town, Pulau Pinang",
+    "notes": "",
+    "lat": 5.4170625,
+    "lng": 100.3114375,
+    "global_plus_code": "6PQ2C886+RH"
+  },
+  {
+    "name": "Hospital Putrajaya",
+    "address": "Pusat Pentadbiran Kerajaan Persekutuan, presint 7,\nPutrajaya, WP Putrajaya,\n62250 Putrajaya,\nWP Putrajaya",
+    "plus": "WMHF+JM Putrajaya",
+    "maps address": "Jalan P9, Presint 7, 62250 Putrajaya, Wilayah Persekutuan Putrajaya",
+    "notes": "",
+    "lat": 2.9290625,
+    "lng": 101.6741875,
+    "global_plus_code": "6PJ3WMHF+JM"
+  },
+  {
+    "name": "Hospital Queen Elizabeth",
+    "address": "Karung Berkunci N0.2029,\nKota Kinabalu, Sabah,\n88586 Kota Kinabalu,\nSabah",
+    "plus": "X34F+P4 Kota Kinabalu, Sabah",
+    "maps address": "13a, Jalan Penampang, 88200 Kota Kinabalu, Sabah",
+    "notes": "",
+    "lat": 5.9568125,
+    "lng": 116.0728125,
+    "global_plus_code": "6PQRX34F+P4"
+  },
+  {
+    "name": "Hospital Queen Elizabeth II",
+    "address": "Lorong Bersatu, Jalan Damai Luyang, Kota Kinabalu,\nKota Kinabalu, Sabah,\n88300 Kota Kinabalu,\nSabah",
+    "plus": "X38V+HG Kota Kinabalu, Sabah",
+    "maps address": "Lorong Bersatu, Off, Jalan Damai, Luyang Commercial Centre, 88300 Kota Kinabalu, Sabah",
+    "notes": "",
+    "lat": 5.9664375,
+    "lng": 116.0938125,
+    "global_plus_code": "6PQRX38V+HG"
+  },
+  {
+    "name": "Hospital Raja Perempuan Zainab II",
+    "address": "Jalan Hospital,\nKota Bharu, Kelantan,\n15000 Kota Bharu,\nKelantan",
+    "plus": "46GW+47 Kota Bharu, Kelantan",
+    "maps address": "15586, Jalan Hospital, Bandar Kota Bharu, 15200 Kota Bharu, Kelantan",
+    "notes": "postcode different",
+    "lat": 6.1253125,
+    "lng": 102.2456875,
+    "global_plus_code": "6PR446GW+47"
+  },
+  {
+    "name": "Hospital Raja Permaisuri Bainun",
+    "address": "Jalan Hospital,\nIpoh, Perak,\n30400 Ipoh,\nPerak",
+    "plus": "J32W+WJ Ipoh, Perak",
+    "maps address": "Jalan Raja Ashman Shah, 30450 Ipoh, Negeri Perak",
+    "notes": "",
+    "lat": 4.6023125,
+    "lng": 101.0965625,
+    "global_plus_code": "6PP3J32W+WJ"
+  },
+  {
+    "name": "Hospital Rajah Charles Brooke Memorial",
+    "address": "Bt 13, Jalan Puncak Borneo, Kota Padawan,\nKuching, Sarawak,\n93250 Kuching,\nSarawak",
+    "plus": "98QC+JX Siburan, Sarawak",
+    "maps address": "Batu 13, Jalan Puncak Borneo, Kota Padawan, 93250, Kuching, Sarawak",
+    "notes": "",
+    "lat": 1.3890625,
+    "lng": 110.3224375,
+    "global_plus_code": "6PHG98QC+JX"
+  },
+  {
+    "name": "Hospital Ranau",
+    "address": "Peti Surat 65,\nRanau, Sabah,\n89300 Ranau,\nSabah",
+    "plus": "XM3C+GC Pekan Ranau, Ranau, Sabah",
+    "maps address": "Peti Surat 65,, 89300 Ranau, Sabah",
+    "notes": "",
+    "lat": 5.9538125,
+    "lng": 116.6710625,
+    "global_plus_code": "6PQRXM3C+GC"
+  },
+  {
+    "name": "Hospital Raub",
+    "address": "Jalan Tengku Abd Samad,\nRaub, Pahang,\n27600 Raub,\nPahang",
+    "plus": "RV53+R4 Raub District, Pahang",
+    "maps address": "Jalan Tengku Abdul Samad, 27600 Raub, Pahang",
+    "notes": "",
+    "lat": 3.809562499999999,
+    "lng": 101.8528125,
+    "global_plus_code": "6PM3RV53+R4"
+  },
+  {
+    "name": "Hospital Rehabilitasi Cheras",
+    "address": "Jalan Yaacob Latif, Bandar Tun Razak Cheras 56000 Kuala Lumpur\nWP Kuala Lumpur,\n,\n56000 Kuala Lumpur,\nWP Kuala Lumpur",
+    "plus": "4P3J+V3 Cheras, Selangor",
+    "maps address": "Jalan Yaacob Latif, Bandar Tun Razak, 56000 Cheras, Wilayah Persekutuan Kuala Lumpur",
+    "notes": "",
+    "lat": 3.1046875,
+    "lng": 101.7301875,
+    "global_plus_code": "6PM34P3J+V3"
+  },
+  {
+    "name": "Hospital Rompin",
+    "address": "Jalan Kg Kolam Kuala Rompin\n26800 Rompin\nPahang,\n,\n26800 Rompin,\nPahang",
+    "plus": "QFWW+CC Kuala Rompin, Pahang",
+    "maps address": "Kampung Kolam, 26800 Kuala Rompin, Pahang",
+    "notes": "",
+    "lat": 2.7960625,
+    "lng": 103.4960625,
+    "global_plus_code": "6PJ5QFWW+CC"
+  },
+  {
+    "name": "Hospital Saratok",
+    "address": "KM 1, Jalan Saratok,\nSaratok, Sarawak,\n95400 Saratok,\nSarawak",
+    "plus": "P8WQ+XW Saratok, Sarawak",
+    "maps address": "Jalan Saratok, 95400 Saratok, Sarawak",
+    "notes": "",
+    "lat": 1.7474375,
+    "lng": 111.3398125,
+    "global_plus_code": "6PHHP8WQ+XW"
+  },
+  {
+    "name": "Hospital Sarikei",
+    "address": "Jalan Rentap,\nSarikei, Sarawak,\n96100 Sarikei,\nSarawak",
+    "plus": "4FJR+QR Sarikei, Sarawak",
+    "maps address": "Jalan Rentap, 96100 Sarikei, Sarawak",
+    "notes": "",
+    "lat": 2.1319375,
+    "lng": 111.4920625,
+    "global_plus_code": "6PJH4FJR+QR"
+  },
+  {
+    "name": "Hospital Seberang Jaya",
+    "address": "Jln Tun Hussein Onn, Perai,\nPerai, Pulau Pinang,\n13700 Perai,\nPulau Pinang",
+    "plus": "9CW4+3M Seberang Jaya, Perai, Penang",
+    "maps address": "Jalan Tun Hussein Onn, Seberang Jaya, 13700 Permatang Pauh, Pulau Pinang",
+    "notes": "",
+    "lat": 5.3951875,
+    "lng": 100.4066875,
+    "global_plus_code": "6PQ29CW4+3M"
+  },
+  {
+    "name": "Hospital Segamat",
+    "address": "KM 6 Jalan Genuang,,\nSegamat, Johor,\n85000 Segamat,\nJohor",
+    "plus": "FVV5+8J Segamat District, Johor",
+    "maps address": "6, Jalan Genuang, Bandar Putra, 85000 Segamat, Johor",
+    "notes": "",
+    "lat": 2.4933125,
+    "lng": 102.8590625,
+    "global_plus_code": "6PJ4FVV5+8J"
+  },
+  {
+    "name": "Hospital Selama",
+    "address": "Jalan Taiping,\nSelama, Perak,\n34100 Selama,\nPerak",
+    "plus": "6M7Q+6H Selama, Perak",
+    "maps address": "Jalan Taiping Selama, Perak 34100 Selama Perak",
+    "notes": "",
+    "lat": 5.213062499999999,
+    "lng": 100.6889375,
+    "global_plus_code": "6PQ26M7Q+6H"
+  },
+  {
+    "name": "Hospital Selayang",
+    "address": "Lebuhraya Selayang-Kepong,\nBatu Caves, Selangor,\n68100 Batu Caves,\nSelangor",
+    "plus": "6JVW+7P Batu Caves, Selangor",
+    "maps address": "B21, Lebuhraya Selayang - Kepong, 68100 Batu Caves, Selangor",
+    "notes": "",
+    "lat": 3.2431875,
+    "lng": 101.6468125,
+    "global_plus_code": "6PM36JVW+7P"
+  },
+  {
+    "name": "Hospital Semporna",
+    "address": "Peti Surat 80,\nSemporna, Sabah,\n91307 Semporna,\nSabah",
+    "plus": "FJM3+4Q Semporna, Sabah",
+    "maps address": "Pekan Semporna, 91308 Semporna, Sabah",
+    "notes": "",
+    "lat": 4.4828125,
+    "lng": 118.6044375,
+    "global_plus_code": "6PPWFJM3+4Q"
+  },
+  {
+    "name": "Hospital Sentosa",
+    "address": "Batu 7, Jalan Penenrisen,\nKuching, Sarawak,\n93250 Kuching,\nSarawak",
+    "plus": "F87H+5W Kuching, Sarawak",
+    "maps address": "Batu 7, Jalan Penrissen, Kota Sentosa, 93250 Kuching, Sarawak",
+    "notes": "",
+    "lat": 1.4629375,
+    "lng": 110.3298125,
+    "global_plus_code": "6PHGF87H+5W"
+  },
+  {
+    "name": "Hospital Serdang",
+    "address": "Jalan Puchong,\nKajang, Selangor,\n43000 Kajang,\nSelangor",
+    "plus": "XPGC+F3 Kajang, Selangor",
+    "maps address": "Jalan Puchong, 43000 Kajang, Selangor",
+    "notes": "",
+    "lat": 2.9761875,
+    "lng": 101.7201875,
+    "global_plus_code": "6PJ3XPGC+F3"
+  },
+  {
+    "name": "Hospital Seri Manjung",
+    "address": "Seri Manjung,\n,\n32040 Seri Manjung,\nPerak",
+    "plus": "5MP6+8W Seri Manjung, Perak",
+    "maps address": "Seri Manjung 32040 Seri Manjung Perak",
+    "notes": "",
+    "lat": 4.1858125,
+    "lng": 100.6623125,
+    "global_plus_code": "6PP25MP6+8W"
+  },
+  {
+    "name": "Hospital Serian",
+    "address": "94700 Serian,\nSerian, Sarawak,\n94700 Serian,\nSarawak",
+    "plus": "5HG7+GC Serian, Sarawak",
+    "maps address": "Bandar Serian, 94700 Serian, Sarawak",
+    "notes": "",
+    "lat": 1.1763125,
+    "lng": 110.5635625,
+    "global_plus_code": "6PHG5HG7+GC"
+  },
+  {
+    "name": "Hospital Setiu",
+    "address": "Bandar Permaisuri,\nSetiu, Terengganu,\n22100 Setiu,\nTerengganu",
+    "plus": "GQ79+QP Permaisuri, Terengganu",
+    "maps address": "22100, Permaisuri, Terengganu, 22100",
+    "notes": "",
+    "lat": 5.5144375,
+    "lng": 102.7693125,
+    "global_plus_code": "6PQ4GQ79+QP"
+  },
+  {
+    "name": "Hospital Shah Alam",
+    "address": "Hospital Shah Alam\nPersiaran Kayangan, Seksyen 7\n40000 Shah Alam\nSelangor,\n,\n40000 Shah Alam,\nSelangor",
+    "plus": "3FCR+92 Shah Alam, Selangor",
+    "maps address": "Persiaran Kayangan, Seksyen 7, 40000 Shah Alam, Selangor",
+    "notes": "",
+    "lat": 3.0709375,
+    "lng": 101.4900625,
+    "global_plus_code": "6PM33FCR+92"
+  },
+  {
+    "name": "Hospital Sibu",
+    "address": "Batu 5 ½,  Jalan Ulu Oya,\nSibu, Sarawak,\n96000 Sibu,\nSarawak",
+    "plus": "7VWR+HQ Pekan Sibu, Sibu, Sarawak",
+    "maps address": "KM 5 1/2, Jalan Ulu Oya, 96000 Sibu, Sarawak",
+    "notes": "",
+    "lat": 2.2964375,
+    "lng": 111.8919375,
+    "global_plus_code": "6PJH7VWR+HQ"
+  },
+  {
+    "name": "Hospital Sik",
+    "address": "08200 Sik,\nSik, Kedah,\n08200 Sik,\nKedah",
+    "plus": "RP6H+CC Sik, Kedah",
+    "maps address": "Pekan Sik, 08220 Sik, Kedah",
+    "notes": "",
+    "lat": 5.811062499999999,
+    "lng": 100.7285625,
+    "global_plus_code": "6PQ2RP6H+CC"
+  },
+  {
+    "name": "Hospital Simunjan",
+    "address": "Jalan Gunung Ngeli,\nSimunjan, Sarawak,\n94800 Simunjan,\nSarawak",
+    "plus": "9QCP+2G Simunjan, Sarawak",
+    "maps address": "94800 Simunjan, Sarawak",
+    "notes": "",
+    "lat": 1.3700625,
+    "lng": 110.7863125,
+    "global_plus_code": "6PHG9QCP+2G"
+  },
+  {
+    "name": "Hospital Sipitang",
+    "address": "Peti Surat 250,\nSipitang, Sabah,\n89857 Sipitang,\nSabah",
+    "plus": "3HW7+H5 Masapol, Sipitang, Sabah",
+    "maps address": "Kilometer 2 Jalan Sipitang - Beaufort, Peti Surat 250, 89857 Sipitang, Sabah",
+    "notes": "",
+    "lat": 5.0964375,
+    "lng": 115.5629375,
+    "global_plus_code": "6PQQ3HW7+H5"
+  },
+  {
+    "name": "Hospital Slim River",
+    "address": ",\n,\n35800 Slim River,\nPerak",
+    "plus": "RCP3+VM Slim River, Perak",
+    "maps address": "35800 Slim River, Perak",
+    "notes": "",
+    "lat": 3.8371875,
+    "lng": 101.4041875,
+    "global_plus_code": "6PM3RCP3+VM"
+  },
+  {
+    "name": "Hospital Sri Aman",
+    "address": "Jalan Hospital,\nSri Aman, Sarawak,\n95007 Sri Aman,\nSarawak",
+    "plus": "6FM7+Q5 Sri Aman, Sarawak",
+    "maps address": "Pekan Sri Aman, 95000 Sri Aman, Sarawak",
+    "notes": "",
+    "lat": 1.2344375,
+    "lng": 111.4629375,
+    "global_plus_code": "6PHH6FM7+Q5"
+  },
+  {
+    "name": "Hospital Sultan Abdul Halim",
+    "address": "Jalan Lencongan Timur Bandar Amanjaya, Sungai Petani,\nSungai Petani, Kedah,\n08000 Sungai Petani,\nKedah",
+    "plus": "MG98+RX Sungai Petani, Kedah",
+    "maps address": "Jalan Lencongan Timur, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+    "notes": "",
+    "lat": 5.6695625,
+    "lng": 100.5174375,
+    "global_plus_code": "6PQ2MG98+RX"
+  },
+  {
+    "name": "Hospital Sultan Hj Ahmad Shah",
+    "address": "Jalan Maran,\nTemerloh, Pahang,\n28000 Temerloh,\nPahang",
+    "plus": "FF33+77 Temerloh, Pahang",
+    "maps address": "Jalan Maran, 28000 Temerloh, Pahang Darul Makmur",
+    "notes": "",
+    "lat": 3.4531875,
+    "lng": 102.4531875,
+    "global_plus_code": "6PM4FF33+77"
+  },
+  {
+    "name": "Hospital Sultan Ismail",
+    "address": "Jalan Persiaran Mutiara Emas Utama, Taman Miount Austin,\nJohor Bahru, Johor,\n81100 Johor Bahru,\nJohor",
+    "plus": "GQWR+M9 Johor Bahru, Johor",
+    "maps address": "Jalan Mutiara Emas Utama, Taman Mount Austin, 81100 Johor Bahru, Johor",
+    "notes": "",
+    "lat": 1.5466875,
+    "lng": 103.7909375,
+    "global_plus_code": "6PH5GQWR+M9"
+  },
+  {
+    "name": "Hospital Sultan Ismail Petra",
+    "address": "KM 6, Jalan Kuala Krai - Gua Musang,\n,\n18000 Kuala Krai,\nKelantan",
+    "plus": "F6WF+WR Kuala Krai, Kelantan",
+    "maps address": "18000 Kuala Krai, Kelantan",
+    "notes": "",
+    "lat": 5.4973125,
+    "lng": 102.2245625,
+    "global_plus_code": "6PQ4F6WF+WR"
+  },
+  {
+    "name": "Hospital Sultanah Aminah",
+    "address": "Johor Bahru,\nJohor Bahru, Johor,\n80100 Johor Bahru,\nJohor",
+    "plus": "FP4W+XM Johor Bahru, Johor",
+    "maps address": "80000 Johor Bahru, Johor",
+    "notes": "",
+    "lat": 1.4574375,
+    "lng": 103.7466875,
+    "global_plus_code": "6PH5FP4W+XM"
+  },
+  {
+    "name": "Hospital Sultanah Bahiyah",
+    "address": "KM 6, Jln Langgar, Alor Setar,\nAlor Setar, Kedah,\n05460 Alor Setar,\nKedah",
+    "plus": "4CX4+CG Alor Setar, Kedah",
+    "maps address": "Km 6, Jalan Langgar, Bandar Alor Setar, 05460 Alor Setar, Kedah",
+    "notes": "",
+    "lat": 6.1485625,
+    "lng": 100.4063125,
+    "global_plus_code": "6PR24CX4+CG"
+  },
+  {
+    "name": "Hospital Sultanah Hajjah Kalsom",
+    "address": "Tanah Rata,,\nCameron Highlands, Pahang,\n39000 Cameron Highlands,\nPahang",
+    "plus": "F98R+PF Tanah Rata, Pahang",
+    "maps address": "Tanah Rata, 39000 Tanah Rata, Pahang",
+    "notes": "",
+    "lat": 4.4668125,
+    "lng": 101.3911875,
+    "global_plus_code": "6PP3F98R+PF"
+  },
+  {
+    "name": "Hospital Sultanah Nora Ismail",
+    "address": "Jalan Korma,83000 Batu Pahat,\nBatu Pahat, Johor,\n83000 Batu Pahat,\nJohor",
+    "plus": "RWPR+Q8 Batu Pahat, Johor",
+    "maps address": "Jalan Korma, Taman Soga, 83000 Batu Pahat, Johor",
+    "notes": "",
+    "lat": 1.8369375,
+    "lng": 102.9408125,
+    "global_plus_code": "6PH4RWPR+Q8"
+  },
+  {
+    "name": "Hospital Sultanah Nur Zahirah",
+    "address": "Jalan Sultan Mahmud, Kuala Terengganu,\nKuala Terengganu, Terengganu,\n20400 Kuala Terengganu,\nTerengganu",
+    "plus": "85G2+3Q Kuala Terengganu, Terengganu",
+    "maps address": "Hospital Sultanah Nur Zahirah, 20400 Kuala Terengganu, Terengganu",
+    "notes": "",
+    "lat": 5.325187500000001,
+    "lng": 103.1519375,
+    "global_plus_code": "6PQ585G2+3Q"
+  },
+  {
+    "name": "Hospital Sungai Bakap",
+    "address": "Sungai Jawi, Seberang Perai Selatan,\nSungai Jawi, Pulau Pinang,\n14200 Sungai Jawi,\nPulau Pinang",
+    "plus": "6F9X+R6 Sungai Bakap, Sungai Jawi, Penang",
+    "maps address": "Jalan Besar Sungai Bakap, Sungai Bakap, 14200 Sungai Jawi, Pulau Pinang",
+    "notes": "",
+    "lat": 5.219562499999999,
+    "lng": 100.4980625,
+    "global_plus_code": "6PQ26F9X+R6"
+  },
+  {
+    "name": "Hospital Sungai Buloh",
+    "address": "Jalan Hospital,\nSungai Buluh, Selangor,\n47000 Sungai Buluh,\nSelangor",
+    "plus": "6H9M+R6 Sungai Buloh, Selangor",
+    "maps address": "Jalan Hospital, 47000 Sungai Buloh, Selangor",
+    "notes": "",
+    "lat": 3.2195625,
+    "lng": 101.5830625,
+    "global_plus_code": "6PM36H9M+R6"
+  },
+  {
+    "name": "Hospital Sungai Siput",
+    "address": "Jalan Felda Lasah,\nSungai Siput, Perak,\n31100 Sungai Siput,\nPerak",
+    "plus": "R3H4+5R Sungai Siput, Perak",
+    "maps address": "Jalan Felda Lasah, 31100 Sungai Siput, Negeri Perak",
+    "notes": "",
+    "lat": 4.8279375,
+    "lng": 101.0570625,
+    "global_plus_code": "6PP3R3H4+5R"
+  },
+  {
+    "name": "Hospital Taiping",
+    "address": "Jalan Taming Sari,\nTaiping, Perak,\n34000 Taiping,\nPerak",
+    "plus": "RPXP+XH Taiping, Perak",
+    "maps address": "Jalan Taming Sari, 34000 Taiping, Negeri Perak",
+    "notes": "",
+    "lat": 4.849937499999999,
+    "lng": 100.7364375,
+    "global_plus_code": "6PP2RPXP+XH"
+  },
+  {
+    "name": "Hospital Tambunan",
+    "address": "Peti Surat 10,\nTambunan, Sabah,\n89657 Tambunan,\nSabah",
+    "plus": "M9MC+2C Tambunan, Sabah",
+    "maps address": "Peti Surat 10, Tambunan, 89657, Tambunan, Sabah",
+    "notes": "",
+    "lat": 5.6825625,
+    "lng": 116.3710625,
+    "global_plus_code": "6PQRM9MC+2C"
+  },
+  {
+    "name": "Hospital Tampin",
+    "address": "Jalan Haji Ahmad Zainuddin, Tampin,\nTampin, Negeri Sembilan,\n73009 Tampin,\nNegeri Sembilan",
+    "plus": "F6MM+WF Tampin, Negeri Sembilan",
+    "maps address": "Jln Tampin-Gemas, Kampung Keru Tengah, 73000 Tampin, Negeri Sembilan",
+    "notes": "",
+    "lat": 2.4848125,
+    "lng": 102.2336875,
+    "global_plus_code": "6PJ4F6MM+WF"
+  },
+  {
+    "name": "Hospital Tanah Merah",
+    "address": "17500 Tanah Merah,\nTanah Merah, Kelantan,\n17500 Tanah Merah,\nKelantan",
+    "plus": "R552+XW Tanah Merah, Kelantan",
+    "maps address": "17500 Tanah Merah, Kelantan",
+    "notes": "",
+    "lat": 5.8099375,
+    "lng": 102.1523125,
+    "global_plus_code": "6PQ4R552+XW"
+  },
+  {
+    "name": "Hospital Tangkak",
+    "address": "Jalan Hospital,  Tangkak Muar,\nTangkak, Johor,\n84900 Tangkak,\nJohor",
+    "plus": "7GCW+RP Tangkak, Johor",
+    "maps address": "Kampung Padang Lalang, 84900 Tangkak, Johor",
+    "notes": "",
+    "lat": 2.2720625,
+    "lng": 102.5468125,
+    "global_plus_code": "6PJ47GCW+RP"
+  },
+  {
+    "name": "Hospital Tanjung Karang",
+    "address": "Tanjung Karang,\nTanjung Karang, Selangor,\n45500 Tanjung Karang,\nSelangor",
+    "plus": "C5FH+WH Tanjung Karang, Selangor",
+    "maps address": "Pekan Tanjong Karang, 45500 Tanjung Karang, Selangor",
+    "notes": "",
+    "lat": 3.4248125,
+    "lng": 101.1789375,
+    "global_plus_code": "6PM3C5FH+WH"
+  },
+  {
+    "name": "Hospital Tapah",
+    "address": "Jalan Temoh,\nTapah, Perak,\n35000 Tapah,\nPerak",
+    "plus": "6725+PR Tapah, Perak",
+    "maps address": "Jalan Temoh, 35000 Tapah, Perak",
+    "notes": "",
+    "lat": 4.201812500000001,
+    "lng": 101.2595625,
+    "global_plus_code": "6PP36725+PR"
+  },
+  {
+    "name": "Hospital Tawau",
+    "address": "Peti Surat 80,\nTawau, Sabah,\n91007 Tawau,\nSabah",
+    "plus": "6VXJ+V7 Bandar Tawau, Tawau, Sabah",
+    "maps address": "67, Peti Surat, 91007 Tawau, Sabah",
+    "notes": "",
+    "lat": 4.249687499999999,
+    "lng": 117.8806875,
+    "global_plus_code": "6PPV6VXJ+V7"
+  },
+  {
+    "name": "Hospital Teluk Intan",
+    "address": "Jalan Changkat Jong,\nTeluk Intan, Perak,\n36000 Teluk Intan,\nPerak",
+    "plus": "223R+R4 Teluk Intan, Perak",
+    "maps address": "Jalan Changkat Jong, 36000 Teluk Intan, Negeri Perak",
+    "notes": "",
+    "lat": 4.0045625,
+    "lng": 101.0403125,
+    "global_plus_code": "6PP3223R+R4"
+  },
+  {
+    "name": "Hospital Temenggong Seri Maharaja Tun Ibrahim",
+    "address": "Hospital Temenggong Seri Maharaja Tun Ibrahim, 81000 Kulai,\nKulaijaya, Johor,\n81000 Kulaijaya,\nJohor",
+    "plus": "JJQF+VG Kulai, Johor",
+    "maps address": "Senai Highway, 81000 Kulai, Johor",
+    "notes": "",
+    "lat": 1.6396875,
+    "lng": 103.6238125,
+    "global_plus_code": "6PH5JJQF+VG"
+  },
+  {
+    "name": "Hospital Tengku Ampuan Afzan",
+    "address": "Jalan Air Putih,\nKuantan, Pahang,\n25100 Kuantan,\nPahang",
+    "plus": "R82C+5J Kuantan, Pahang",
+    "maps address": "Jalan Tanah Putih, 25100 Kuantan, Pahang",
+    "notes": "",
+    "lat": 3.800437499999999,
+    "lng": 103.3215625,
+    "global_plus_code": "6PM5R82C+5J"
+  },
+  {
+    "name": "Hospital Tengku Ampuan Jemaah",
+    "address": "45200 Sabak Bernam,\nSabak Bernam, Selangor,\n45200 Sabak Bernam,\nSelangor",
+    "plus": "QX6Q+GW Sabak, Selangor",
+    "maps address": "Jalan Hospital, 45200 Sabak, Selangor",
+    "notes": "",
+    "lat": 3.7613125,
+    "lng": 100.9898125,
+    "global_plus_code": "6PM2QX6Q+GW"
+  },
+  {
+    "name": "Hospital Tengku Ampuan Rahimah",
+    "address": "Jalan Langat,41200 Klang,\nKlang, Selangor,\n41200 Klang,\nSelangor",
+    "plus": "2C9R+X5 Klang, Selangor",
+    "maps address": "Jalan Langat, 41200 Klang, Selangor",
+    "notes": "",
+    "lat": 3.0199375,
+    "lng": 101.4404375,
+    "global_plus_code": "6PM32C9R+X5"
+  },
+  {
+    "name": "Hospital Tengku Anis",
+    "address": "Jalan Pasir Puteh,\nPasir Puteh, Kelantan,\n16800 Pasir Puteh,\nKelantan",
+    "plus": "R9MQ+54 Pasir Puteh, Kelantan",
+    "maps address": "Jalan Pasir Puteh - Tok Bali, Kota Bharu, 16800 Pasir Puteh, Kelantan",
+    "notes": "",
+    "lat": 5.8329375,
+    "lng": 102.3878125,
+    "global_plus_code": "6PQ4R9MQ+54"
+  },
+  {
+    "name": "Hospital Tenom",
+    "address": "Peti surat 97,\nTenom, Sabah,\n89907 Tenom,\nSabah",
+    "plus": "4WFR+7G Naluyan, Tenom, Sabah",
+    "maps address": "Hospital Tenom, Peti Surat 97, Tenom, 89907, Tenom, Sabah",
+    "notes": "",
+    "lat": 5.123187499999999,
+    "lng": 115.9413125,
+    "global_plus_code": "6PQQ4WFR+7G"
+  },
+  {
+    "name": "Hospital Tuanku Ampuan Najihah",
+    "address": "KM 3 Jalan Melang,\nKuala Pilah, Negeri Sembilan,\n72000 Kuala Pilah,\nNegeri Sembilan",
+    "plus": "P6MM+W6 Kuala Pilah, Negeri Sembilan",
+    "maps address": "KM 3, Jalan Melang, Kampung Gemelang, 72000 Kuala Pilah, Negeri Sembilan",
+    "notes": "",
+    "lat": 2.7348125,
+    "lng": 102.2330625,
+    "global_plus_code": "6PJ4P6MM+W6"
+  },
+  {
+    "name": "Hospital Tuanku Fauziah",
+    "address": "Jalan Kolam, 01000 Kangar,\nKangar, Perlis,\n01000 Kangar,\nPerlis",
+    "plus": "C5RR+CG Kangar, Perlis",
+    "maps address": "3, Jalan Tun Abdul Razak, Pusat Bandar Kangar, 01000 Kangar, Perlis",
+    "notes": "",
+    "lat": 6.441062500000001,
+    "lng": 100.1913125,
+    "global_plus_code": "6PR2C5RR+CG"
+  },
+  {
+    "name": "Hospital Tuanku Ja'afar Seremban",
+    "address": "Jalan Rasah,\nSeremban, Negeri Sembilan,\n70300 Seremban,\nNegeri Sembilan",
+    "plus": "PW5V+JC Seremban, Negeri Sembilan",
+    "maps address": "Jalan Rasah, Bukit Rasah, 70300 Seremban, Negeri Sembilan",
+    "notes": "",
+    "lat": 2.7090625,
+    "lng": 101.9435625,
+    "global_plus_code": "6PJ3PW5V+JC"
+  },
+  {
+    "name": "Hospital Tuaran",
+    "address": "Peti surat 996, 89207 Tuaran Sabah,\nTuaran, Sabah,\n89207 Tuaran,\nSabah",
+    "plus": "46V9+HJ Kota Kinabalu, Sabah",
+    "maps address": "Jalan hospital Tuaran Tuaran, 89200 Kota Kinabalu, Sabah",
+    "notes": "",
+    "lat": 6.1439375,
+    "lng": 116.2190625,
+    "global_plus_code": "6PRR46V9+HJ"
+  },
+  {
+    "name": "Hospital Tumpat",
+    "address": "Jalan Kelaburan,\nTumpat, Kelantan,\n62000 Tumpat,\nKelantan",
+    "plus": "55Q4+VW Tumpat, Kelantan",
+    "maps address": "Jalan Kelaburan, 16200 Tumpat, Kelantan",
+    "notes": "Google maps address seems wrong",
+    "lat": 6.1896875,
+    "lng": 102.1573125,
+    "global_plus_code": "6PR455Q4+VW"
+  },
+  {
+    "name": "Hospital Tunku Azizah (Wanita Dan Kanak-Kanak)",
+    "address": "Jalan Raja Muda Abdul Aziz,\nKampung Baru,\n50300 Kuala Lumpur,\nWP Kuala Lumpur",
+    "plus": "5P93+W4 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "maps address": "Jalan Dr Latif, Titiwangsa, 50586 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "notes": "Was originally Hospital Wanita dan Kanak-Kanak Kuala Lumpur, and still is on google maps. Another (private) hospital named Rampai Puteri was originally called Tunku Azizah Hospital!!! And renamed in 2016.\nThis hospital is actually part of HKL's complex of hospitals, which is why the address is weird and doesn't match on google maps vs official.\nhttps://www.thestar.com.my/news/nation/2020/01/21/women-and-kids-centre-renamed-tunku-azizah-hospital",
+    "lat": 3.1698125,
+    "lng": 101.7028125,
+    "global_plus_code": "6PM35P93+W4"
+  },
+  {
+    "name": "Hospital Umum Kuching",
+    "address": "Jalan Tun Ahmad Zaidi Adruce,\nKuching, Sarawak,\n93586 Kuching,\nSarawak",
+    "plus": "G8VQ+FV Kuching, Sarawak",
+    "maps address": "Jalan Hospital, 93586 Kuching, Sarawak",
+    "notes": "",
+    "lat": 1.5436875,
+    "lng": 110.3396875,
+    "global_plus_code": "6PHGG8VQ+FV"
+  },
+  {
+    "name": "Hospital Wanita dan Kanak-Kanak Sabah",
+    "address": "Karung Berkunci 187,\nKota Kinabalu, Sabah,\n88996 Kota Kinabalu,\nSabah",
+    "plus": "2479+GQ Kota Kinabalu, Sabah",
+    "maps address": "187, Sabah Karung Berkunci, 88996 Kota Kinabalu, Sabah",
+    "notes": "",
+    "lat": 6.013812499999999,
+    "lng": 116.1194375,
+    "global_plus_code": "6PRR2479+GQ"
+  },
+  {
+    "name": "Hospital Yan",
+    "address": "Batu 25 Jalan Yan,\nYan, Kedah,\n06900 Yan,\nKedah",
+    "plus": "R9CM+CP Yan, Kedah",
+    "maps address": "Kampung Sungai Udang, 06900 Yan, Kedah",
+    "notes": "",
+    "lat": 5.8210625,
+    "lng": 100.3843125,
+    "global_plus_code": "6PQ2R9CM+CP"
+  },
+  {
+    "name": "Institut Kanser Negara",
+    "address": "No 4, Jalan P7, Presint 7\n62250 Putrajaya\nWP Putrajaya,\n,\n62250 Putrajaya,\nWP Putrajaya",
+    "plus": "WMGF+QH Putrajaya",
+    "maps address": "4, Jalan P7, Presint 7, 62250 Putrajaya, Wilayah Persekutuan Putrajaya",
+    "notes": "",
+    "lat": 2.9269375,
+    "lng": 101.6739375,
+    "global_plus_code": "6PJ3WMGF+QH"
+  },
+  {
+    "name": "Institut Perubatan Respiratori",
+    "address": "Jalan Pahang,\nKuala Lumpur, WP Kuala Lumpur,\n53000 Kuala Lumpur,\nWP Kuala Lumpur",
+    "plus": "5MGX+7V Pekeliling, Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "maps address": "Jalan Pahang, Pekeliling, 53000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "notes": "",
+    "lat": 3.1756875,
+    "lng": 101.6996875,
+    "global_plus_code": "6PM35MGX+7V"
+  },
+  {
+    "name": "Pusat Jantung Sarawak",
+    "address": "Jalan Expressway Kota Samarahan\n94300 Samarahan\nSarawak,\n,\n94300 Samarahan,\nSarawak",
+    "plus": "FCJ9+9J Kota Samarahan, Sarawak",
+    "maps address": "Kuching - Samarahan Expressway, 94300 Kota Samarahan, Sarawak",
+    "notes": "",
+    "lat": 1.4809375,
+    "lng": 110.4190625,
+    "global_plus_code": "6PHGFCJ9+9J"
+  },
+  {
+    "name": "Pusat Kawalan Kusta Negara",
+    "address": "Sungai Buluh,\nSungai Buluh, Selangor,\n47000 Sungai Buluh,\nSelangor",
+    "plus": "6HCM+MF Sungai Buloh, Selangor",
+    "maps address": "Jalan Hospital, 47000 Sungai Buloh, Selangor",
+    "notes": "",
+    "lat": 3.2216875,
+    "lng": 101.5836875,
+    "global_plus_code": "6PM36HCM+MF"
+  }
+]
