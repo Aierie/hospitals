@@ -1,4 +1,4 @@
-const geoCodeData = require("./data/geocodeData.json");
+const geoCodeData = require("../data/geocodeData.json");
 
 geoCodeData.forEach((o) => {
   if (o.results.length !== 1) {

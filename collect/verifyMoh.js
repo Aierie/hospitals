@@ -2,7 +2,7 @@
  * Verify MOH data
  */
 
-const data = require("./data/hospitalData.json");
+const data = require("../data/hospitalData.json");
 const throwIfNot = (o, k) => {
   if (o[k] === null || !o[k] || o[k] === "null") {
     console.log(`Missing ${k}`, o.name);

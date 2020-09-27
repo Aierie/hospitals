@@ -81,14 +81,14 @@ axios
     );
 
     fs.writeFile(
-      "./data/hospitalData.json",
+      "../data/hospitalData.json",
       JSON.stringify(deets, null, 2),
       null,
       (err) => err || console.log("successfully wrote json")
     );
 
     fs.writeFile(
-      "./data/hospitalData.csv",
+      "../data/hospitalData.csv",
       d3.csvFormat(deets),
       null,
       (err) => err || console.log("successfully wrote csv")

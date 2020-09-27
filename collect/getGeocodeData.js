@@ -6,7 +6,7 @@ require("dotenv").config();
 const fs = require("fs");
 const d3 = require("d3-dsv");
 const googleMapsLocations = d3.csvParse(
-  fs.readFileSync("./data/googleMapsLocations.csv", { encoding: "utf-8" })
+  fs.readFileSync("../data/googleMapsLocations.csv", { encoding: "utf-8" })
 );
 const axios = require("axios");
 
