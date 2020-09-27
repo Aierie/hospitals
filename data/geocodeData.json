@@ -49,8 +49,8 @@
             }
           },
           "location": {
-            "lat": 2.3954375,
-            "lng": 102.2020625
+            "lat": "2.3954375",
+            "lng": "102.2020625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -125,8 +125,8 @@
             }
           },
           "location": {
-            "lat": 3.1281875,
-            "lng": 101.7640625
+            "lat": "3.1281875",
+            "lng": "101.7640625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -201,8 +201,8 @@
             }
           },
           "location": {
-            "lat": 4.6755625,
-            "lng": 101.1506875
+            "lat": "4.6755625",
+            "lng": "101.1506875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -277,8 +277,8 @@
             }
           },
           "location": {
-            "lat": 5.3501875,
-            "lng": 100.2331875
+            "lat": "5.3501875",
+            "lng": "100.2331875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -353,8 +353,8 @@
             }
           },
           "location": {
-            "lat": 5.678812499999999,
-            "lng": 100.9250625
+            "lat": "5.678812499999999",
+            "lng": "100.9250625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -429,8 +429,8 @@
             }
           },
           "location": {
-            "lat": 2.8028125,
-            "lng": 101.4938125
+            "lat": "2.8028125",
+            "lng": "101.4938125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -505,8 +505,8 @@
             }
           },
           "location": {
-            "lat": 4.4794375,
-            "lng": 101.0350625
+            "lat": "4.4794375",
+            "lng": "101.0350625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -581,8 +581,8 @@
             }
           },
           "location": {
-            "lat": 1.4295625,
-            "lng": 110.1426875
+            "lat": "1.4295625",
+            "lng": "110.1426875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -657,8 +657,8 @@
             }
           },
           "location": {
-            "lat": 5.351437499999999,
-            "lng": 115.7409375
+            "lat": "5.351437499999999",
+            "lng": "115.7409375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -733,8 +733,8 @@
             }
           },
           "location": {
-            "lat": 5.8934375,
-            "lng": 117.5554375
+            "lat": "5.8934375",
+            "lng": "117.5554375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -809,8 +809,8 @@
             }
           },
           "location": {
-            "lat": 3.5253125,
-            "lng": 101.9055625
+            "lat": "3.5253125",
+            "lng": "101.9055625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -885,8 +885,8 @@
             }
           },
           "location": {
-            "lat": 5.7290625,
-            "lng": 102.4915625
+            "lat": "5.7290625",
+            "lng": "102.4915625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -961,8 +961,8 @@
             }
           },
           "location": {
-            "lat": 1.3739375,
-            "lng": 111.5738125
+            "lat": "1.3739375",
+            "lng": "111.5738125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1037,8 +1037,8 @@
             }
           },
           "location": {
-            "lat": 3.2296875,
-            "lng": 113.1010625
+            "lat": "3.2296875",
+            "lng": "113.1010625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1113,8 +1113,8 @@
             }
           },
           "location": {
-            "lat": 5.3593125,
-            "lng": 100.4640625
+            "lat": "5.3593125",
+            "lng": "100.4640625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1189,8 +1189,8 @@
             }
           },
           "location": {
-            "lat": 4.312937499999999,
-            "lng": 100.9104375
+            "lat": "4.312937499999999",
+            "lng": "100.9104375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1281,8 +1281,8 @@
             }
           },
           "location": {
-            "lat": 2.7451875,
-            "lng": 111.9460625
+            "lat": "2.7451875",
+            "lng": "111.9460625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1358,8 +1358,8 @@
             }
           },
           "location": {
-            "lat": 2.5218125,
-            "lng": 111.4131875
+            "lat": "2.5218125",
+            "lng": "111.4131875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1450,8 +1450,8 @@
             }
           },
           "location": {
-            "lat": 5.8585625,
-            "lng": 118.1034375
+            "lat": "5.8585625",
+            "lng": "118.1034375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1526,8 +1526,8 @@
             }
           },
           "location": {
-            "lat": 4.751937499999999,
-            "lng": 103.4148125
+            "lat": "4.751937499999999",
+            "lng": "103.4148125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1602,8 +1602,8 @@
             }
           },
           "location": {
-            "lat": 2.0080625,
-            "lng": 103.3470625
+            "lat": "2.0080625",
+            "lng": "103.3470625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1678,8 +1678,8 @@
             }
           },
           "location": {
-            "lat": 5.4290625,
-            "lng": 101.1279375
+            "lat": "5.4290625",
+            "lng": "101.1279375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1761,8 +1761,8 @@
             }
           },
           "location": {
-            "lat": 4.8596875,
-            "lng": 101.9548125
+            "lat": "4.8596875",
+            "lng": "101.9548125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1837,8 +1837,8 @@
             }
           },
           "location": {
-            "lat": 5.0731875,
-            "lng": 103.0448125
+            "lat": "5.0731875",
+            "lng": "103.0448125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1913,8 +1913,8 @@
             }
           },
           "location": {
-            "lat": 2.3049375,
-            "lng": 102.4284375
+            "lat": "2.3049375",
+            "lng": "102.4284375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -1989,8 +1989,8 @@
             }
           },
           "location": {
-            "lat": 2.9503125,
-            "lng": 102.0590625
+            "lat": "2.9503125",
+            "lng": "102.0590625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2065,8 +2065,8 @@
             }
           },
           "location": {
-            "lat": 5.701312499999999,
-            "lng": 101.8443125
+            "lat": "5.701312499999999",
+            "lng": "101.8443125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2148,8 +2148,8 @@
             }
           },
           "location": {
-            "lat": 2.9033125,
-            "lng": 102.4060625
+            "lat": "2.9033125",
+            "lng": "102.4060625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2224,8 +2224,8 @@
             }
           },
           "location": {
-            "lat": 3.7731875,
-            "lng": 102.5516875
+            "lat": "3.7731875",
+            "lng": "102.5516875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2316,8 +2316,8 @@
             }
           },
           "location": {
-            "lat": 3.9293125,
-            "lng": 102.3601875
+            "lat": "3.9293125",
+            "lng": "102.3601875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2392,8 +2392,8 @@
             }
           },
           "location": {
-            "lat": 6.2788125,
-            "lng": 100.4190625
+            "lat": "6.2788125",
+            "lng": "100.4190625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2468,8 +2468,8 @@
             }
           },
           "location": {
-            "lat": 2.9928125,
-            "lng": 101.7928125
+            "lat": "2.9928125",
+            "lng": "101.7928125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2545,8 +2545,8 @@
             }
           },
           "location": {
-            "lat": 4.3119375,
-            "lng": 101.1563125
+            "lat": "4.3119375",
+            "lng": "101.1563125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2621,8 +2621,8 @@
             }
           },
           "location": {
-            "lat": 2.1028125,
-            "lng": 112.1523125
+            "lat": "2.1028125",
+            "lng": "112.1523125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2673,8 +2673,8 @@
             }
           },
           "location": {
-            "lat": 2.0138125,
-            "lng": 112.9426875
+            "lat": "2.0138125",
+            "lng": "112.9426875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2755,8 +2755,8 @@
             }
           },
           "location": {
-            "lat": 4.2319375,
-            "lng": 103.4203125
+            "lat": "4.2319375",
+            "lng": "103.4203125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2847,8 +2847,8 @@
             }
           },
           "location": {
-            "lat": 5.3701875,
-            "lng": 116.1819375
+            "lat": "5.3701875",
+            "lng": "116.1819375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -2923,8 +2923,8 @@
             }
           },
           "location": {
-            "lat": 5.5126875,
-            "lng": 100.4365625
+            "lat": "5.5126875",
+            "lng": "100.4365625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3015,8 +3015,8 @@
             }
           },
           "location": {
-            "lat": 5.5849375,
-            "lng": 117.8504375
+            "lat": "5.5849375",
+            "lng": "117.8504375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3091,8 +3091,8 @@
             }
           },
           "location": {
-            "lat": 6.346187500000001,
-            "lng": 116.4261875
+            "lat": "6.346187500000001",
+            "lng": "116.4261875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3167,8 +3167,8 @@
             }
           },
           "location": {
-            "lat": 6.4573125,
-            "lng": 116.7760625
+            "lat": "6.4573125",
+            "lng": "116.7760625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3250,8 +3250,8 @@
             }
           },
           "location": {
-            "lat": 1.7349375,
-            "lng": 103.8994375
+            "lat": "1.7349375",
+            "lng": "103.8994375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3326,8 +3326,8 @@
             }
           },
           "location": {
-            "lat": 4.7730625,
-            "lng": 100.9319375
+            "lat": "4.7730625",
+            "lng": "100.9319375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3402,8 +3402,8 @@
             }
           },
           "location": {
-            "lat": 3.5641875,
-            "lng": 101.6530625
+            "lat": "3.5641875",
+            "lng": "101.6530625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3494,8 +3494,8 @@
             }
           },
           "location": {
-            "lat": 4.1825625,
-            "lng": 102.0555625
+            "lat": "4.1825625",
+            "lng": "102.0555625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3570,8 +3570,8 @@
             }
           },
           "location": {
-            "lat": 3.1721875,
-            "lng": 101.6989375
+            "lat": "3.1721875",
+            "lng": "101.6989375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3646,8 +3646,8 @@
             }
           },
           "location": {
-            "lat": 6.2526875,
-            "lng": 100.6098125
+            "lat": "6.2526875",
+            "lng": "100.6098125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3722,8 +3722,8 @@
             }
           },
           "location": {
-            "lat": 5.560312499999999,
-            "lng": 115.5855625
+            "lat": "5.560312499999999",
+            "lng": "115.5855625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3805,8 +3805,8 @@
             }
           },
           "location": {
-            "lat": 6.906687499999999,
-            "lng": 116.8379375
+            "lat": "6.906687499999999",
+            "lng": "116.8379375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3881,8 +3881,8 @@
             }
           },
           "location": {
-            "lat": 5.3931875,
-            "lng": 100.5730625
+            "lat": "5.3931875",
+            "lng": "100.5730625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -3957,8 +3957,8 @@
             }
           },
           "location": {
-            "lat": 4.6770625,
-            "lng": 118.2323125
+            "lat": "4.6770625",
+            "lng": "118.2323125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4040,8 +4040,8 @@
             }
           },
           "location": {
-            "lat": 5.3111875,
-            "lng": 115.2300625
+            "lat": "5.3111875",
+            "lng": "115.2300625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4132,8 +4132,8 @@
             }
           },
           "location": {
-            "lat": 5.0266875,
-            "lng": 118.3136875
+            "lat": "5.0266875",
+            "lng": "118.3136875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4208,8 +4208,8 @@
             }
           },
           "location": {
-            "lat": 6.324812499999999,
-            "lng": 99.79843749999999
+            "lat": "6.324812499999999",
+            "lng": "99.79843749999999"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4284,8 +4284,8 @@
             }
           },
           "location": {
-            "lat": 4.8544375,
-            "lng": 115.4045625
+            "lat": "4.8544375",
+            "lng": "115.4045625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4376,8 +4376,8 @@
             }
           },
           "location": {
-            "lat": 4.764312500000001,
-            "lng": 115.0190625
+            "lat": "4.764312500000001",
+            "lng": "115.0190625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4452,8 +4452,8 @@
             }
           },
           "location": {
-            "lat": 1.6755625,
-            "lng": 109.8528125
+            "lat": "1.6755625",
+            "lng": "109.8528125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4528,8 +4528,8 @@
             }
           },
           "location": {
-            "lat": 5.7631875,
-            "lng": 102.2258125
+            "lat": "5.7631875",
+            "lng": "102.2258125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4604,8 +4604,8 @@
             }
           },
           "location": {
-            "lat": 4.1784375,
-            "lng": 114.3253125
+            "lat": "4.1784375",
+            "lng": "114.3253125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4680,8 +4680,8 @@
             }
           },
           "location": {
-            "lat": 2.2189375,
-            "lng": 102.2615625
+            "lat": "2.2189375",
+            "lng": "102.2615625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4772,8 +4772,8 @@
             }
           },
           "location": {
-            "lat": 2.4294375,
-            "lng": 103.8453125
+            "lat": "2.4294375",
+            "lng": "103.8453125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4849,8 +4849,8 @@
             }
           },
           "location": {
-            "lat": 5.9504375,
-            "lng": 116.1053125
+            "lat": "5.9504375",
+            "lng": "116.1053125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -4941,8 +4941,8 @@
             }
           },
           "location": {
-            "lat": 4.3744375,
-            "lng": 113.9991875
+            "lat": "4.3744375",
+            "lng": "113.9991875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5017,8 +5017,8 @@
             }
           },
           "location": {
-            "lat": 3.0538125,
-            "lng": 103.0909375
+            "lat": "3.0538125",
+            "lng": "103.0909375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5093,8 +5093,8 @@
             }
           },
           "location": {
-            "lat": 2.9008125,
-            "lng": 112.0763125
+            "lat": "2.9008125",
+            "lng": "112.0763125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5185,8 +5185,8 @@
             }
           },
           "location": {
-            "lat": 3.2919375,
-            "lng": 101.7309375
+            "lat": "3.2919375",
+            "lng": "101.7309375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5261,8 +5261,8 @@
             }
           },
           "location": {
-            "lat": 2.0570625,
-            "lng": 102.5744375
+            "lat": "2.0570625",
+            "lng": "102.5744375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5337,8 +5337,8 @@
             }
           },
           "location": {
-            "lat": 5.726812499999999,
-            "lng": 115.9238125
+            "lat": "5.726812499999999",
+            "lng": "115.9238125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5413,8 +5413,8 @@
             }
           },
           "location": {
-            "lat": 5.1310625,
-            "lng": 100.4836875
+            "lat": "5.1310625",
+            "lng": "100.4836875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5489,8 +5489,8 @@
             }
           },
           "location": {
-            "lat": 6.0139375,
-            "lng": 102.1189375
+            "lat": "6.0139375",
+            "lng": "102.1189375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5581,8 +5581,8 @@
             }
           },
           "location": {
-            "lat": 3.5023125,
-            "lng": 103.3800625
+            "lat": "3.5023125",
+            "lng": "103.3800625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5657,8 +5657,8 @@
             }
           },
           "location": {
-            "lat": 1.5231875,
-            "lng": 103.7055625
+            "lat": "1.5231875",
+            "lng": "103.7055625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5749,8 +5749,8 @@
             }
           },
           "location": {
-            "lat": 6.711937499999999,
-            "lng": 117.0296875
+            "lat": "6.711937499999999",
+            "lng": "117.0296875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5825,8 +5825,8 @@
             }
           },
           "location": {
-            "lat": 1.4984375,
-            "lng": 103.3851875
+            "lat": "1.4984375",
+            "lng": "103.3851875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5901,8 +5901,8 @@
             }
           },
           "location": {
-            "lat": 2.4776875,
-            "lng": 101.8550625
+            "lat": "2.4776875",
+            "lng": "101.8550625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -5977,8 +5977,8 @@
             }
           },
           "location": {
-            "lat": 5.4170625,
-            "lng": 100.3114375
+            "lat": "5.4170625",
+            "lng": "100.3114375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6053,8 +6053,8 @@
             }
           },
           "location": {
-            "lat": 2.9290625,
-            "lng": 101.6741875
+            "lat": "2.9290625",
+            "lng": "101.6741875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6129,8 +6129,8 @@
             }
           },
           "location": {
-            "lat": 5.9568125,
-            "lng": 116.0728125
+            "lat": "5.9568125",
+            "lng": "116.0728125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6205,8 +6205,8 @@
             }
           },
           "location": {
-            "lat": 5.9664375,
-            "lng": 116.0938125
+            "lat": "5.9664375",
+            "lng": "116.0938125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6281,8 +6281,8 @@
             }
           },
           "location": {
-            "lat": 6.1253125,
-            "lng": 102.2456875
+            "lat": "6.1253125",
+            "lng": "102.2456875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6357,8 +6357,8 @@
             }
           },
           "location": {
-            "lat": 4.6023125,
-            "lng": 101.0965625
+            "lat": "4.6023125",
+            "lng": "101.0965625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6433,8 +6433,8 @@
             }
           },
           "location": {
-            "lat": 1.3890625,
-            "lng": 110.3224375
+            "lat": "1.3890625",
+            "lng": "110.3224375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6518,8 +6518,8 @@
             }
           },
           "location": {
-            "lat": 5.9538125,
-            "lng": 116.6710625
+            "lat": "5.9538125",
+            "lng": "116.6710625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6594,8 +6594,8 @@
             }
           },
           "location": {
-            "lat": 3.809562499999999,
-            "lng": 101.8528125
+            "lat": "3.809562499999999",
+            "lng": "101.8528125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6670,8 +6670,8 @@
             }
           },
           "location": {
-            "lat": 3.1046875,
-            "lng": 101.7301875
+            "lat": "3.1046875",
+            "lng": "101.7301875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6746,8 +6746,8 @@
             }
           },
           "location": {
-            "lat": 2.7960625,
-            "lng": 103.4960625
+            "lat": "2.7960625",
+            "lng": "103.4960625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6822,8 +6822,8 @@
             }
           },
           "location": {
-            "lat": 1.7474375,
-            "lng": 111.3398125
+            "lat": "1.7474375",
+            "lng": "111.3398125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6898,8 +6898,8 @@
             }
           },
           "location": {
-            "lat": 2.1319375,
-            "lng": 111.4920625
+            "lat": "2.1319375",
+            "lng": "111.4920625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -6974,8 +6974,8 @@
             }
           },
           "location": {
-            "lat": 5.3951875,
-            "lng": 100.4066875
+            "lat": "5.3951875",
+            "lng": "100.4066875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7050,8 +7050,8 @@
             }
           },
           "location": {
-            "lat": 2.4933125,
-            "lng": 102.8590625
+            "lat": "2.4933125",
+            "lng": "102.8590625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7126,8 +7126,8 @@
             }
           },
           "location": {
-            "lat": 5.213062499999999,
-            "lng": 100.6889375
+            "lat": "5.213062499999999",
+            "lng": "100.6889375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7209,8 +7209,8 @@
             }
           },
           "location": {
-            "lat": 3.2431875,
-            "lng": 101.6468125
+            "lat": "3.2431875",
+            "lng": "101.6468125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7285,8 +7285,8 @@
             }
           },
           "location": {
-            "lat": 4.4828125,
-            "lng": 118.6044375
+            "lat": "4.4828125",
+            "lng": "118.6044375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7361,8 +7361,8 @@
             }
           },
           "location": {
-            "lat": 1.4629375,
-            "lng": 110.3298125
+            "lat": "1.4629375",
+            "lng": "110.3298125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7437,8 +7437,8 @@
             }
           },
           "location": {
-            "lat": 2.9761875,
-            "lng": 101.7201875
+            "lat": "2.9761875",
+            "lng": "101.7201875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7513,8 +7513,8 @@
             }
           },
           "location": {
-            "lat": 4.1858125,
-            "lng": 100.6623125
+            "lat": "4.1858125",
+            "lng": "100.6623125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7589,8 +7589,8 @@
             }
           },
           "location": {
-            "lat": 1.1763125,
-            "lng": 110.5635625
+            "lat": "1.1763125",
+            "lng": "110.5635625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7665,8 +7665,8 @@
             }
           },
           "location": {
-            "lat": 5.5144375,
-            "lng": 102.7693125
+            "lat": "5.5144375",
+            "lng": "102.7693125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7741,8 +7741,8 @@
             }
           },
           "location": {
-            "lat": 3.0709375,
-            "lng": 101.4900625
+            "lat": "3.0709375",
+            "lng": "101.4900625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7833,8 +7833,8 @@
             }
           },
           "location": {
-            "lat": 2.2964375,
-            "lng": 111.8919375
+            "lat": "2.2964375",
+            "lng": "111.8919375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7909,8 +7909,8 @@
             }
           },
           "location": {
-            "lat": 5.811062499999999,
-            "lng": 100.7285625
+            "lat": "5.811062499999999",
+            "lng": "100.7285625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -7985,8 +7985,8 @@
             }
           },
           "location": {
-            "lat": 1.3700625,
-            "lng": 110.7863125
+            "lat": "1.3700625",
+            "lng": "110.7863125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8077,8 +8077,8 @@
             }
           },
           "location": {
-            "lat": 5.0964375,
-            "lng": 115.5629375
+            "lat": "5.0964375",
+            "lng": "115.5629375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8153,8 +8153,8 @@
             }
           },
           "location": {
-            "lat": 3.8371875,
-            "lng": 101.4041875
+            "lat": "3.8371875",
+            "lng": "101.4041875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8229,8 +8229,8 @@
             }
           },
           "location": {
-            "lat": 1.2344375,
-            "lng": 111.4629375
+            "lat": "1.2344375",
+            "lng": "111.4629375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8305,8 +8305,8 @@
             }
           },
           "location": {
-            "lat": 5.6695625,
-            "lng": 100.5174375
+            "lat": "5.6695625",
+            "lng": "100.5174375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8381,8 +8381,8 @@
             }
           },
           "location": {
-            "lat": 3.4531875,
-            "lng": 102.4531875
+            "lat": "3.4531875",
+            "lng": "102.4531875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8457,8 +8457,8 @@
             }
           },
           "location": {
-            "lat": 1.5466875,
-            "lng": 103.7909375
+            "lat": "1.5466875",
+            "lng": "103.7909375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8533,8 +8533,8 @@
             }
           },
           "location": {
-            "lat": 5.4973125,
-            "lng": 102.2245625
+            "lat": "5.4973125",
+            "lng": "102.2245625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8609,8 +8609,8 @@
             }
           },
           "location": {
-            "lat": 1.4574375,
-            "lng": 103.7466875
+            "lat": "1.4574375",
+            "lng": "103.7466875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8685,8 +8685,8 @@
             }
           },
           "location": {
-            "lat": 6.1485625,
-            "lng": 100.4063125
+            "lat": "6.1485625",
+            "lng": "100.4063125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8770,8 +8770,8 @@
             }
           },
           "location": {
-            "lat": 4.4668125,
-            "lng": 101.3911875
+            "lat": "4.4668125",
+            "lng": "101.3911875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8846,8 +8846,8 @@
             }
           },
           "location": {
-            "lat": 1.8369375,
-            "lng": 102.9408125
+            "lat": "1.8369375",
+            "lng": "102.9408125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8922,8 +8922,8 @@
             }
           },
           "location": {
-            "lat": 5.325187500000001,
-            "lng": 103.1519375
+            "lat": "5.325187500000001",
+            "lng": "103.1519375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -8998,8 +8998,8 @@
             }
           },
           "location": {
-            "lat": 5.219562499999999,
-            "lng": 100.4980625
+            "lat": "5.219562499999999",
+            "lng": "100.4980625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9074,8 +9074,8 @@
             }
           },
           "location": {
-            "lat": 3.2195625,
-            "lng": 101.5830625
+            "lat": "3.2195625",
+            "lng": "101.5830625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9150,8 +9150,8 @@
             }
           },
           "location": {
-            "lat": 4.8279375,
-            "lng": 101.0570625
+            "lat": "4.8279375",
+            "lng": "101.0570625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9226,8 +9226,8 @@
             }
           },
           "location": {
-            "lat": 4.849937499999999,
-            "lng": 100.7364375
+            "lat": "4.849937499999999",
+            "lng": "100.7364375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9303,8 +9303,8 @@
             }
           },
           "location": {
-            "lat": 5.6825625,
-            "lng": 116.3710625
+            "lat": "5.6825625",
+            "lng": "116.3710625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9379,8 +9379,8 @@
             }
           },
           "location": {
-            "lat": 2.4848125,
-            "lng": 102.2336875
+            "lat": "2.4848125",
+            "lng": "102.2336875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9455,8 +9455,8 @@
             }
           },
           "location": {
-            "lat": 5.8099375,
-            "lng": 102.1523125
+            "lat": "5.8099375",
+            "lng": "102.1523125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9531,8 +9531,8 @@
             }
           },
           "location": {
-            "lat": 2.2720625,
-            "lng": 102.5468125
+            "lat": "2.2720625",
+            "lng": "102.5468125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9607,8 +9607,8 @@
             }
           },
           "location": {
-            "lat": 3.4248125,
-            "lng": 101.1789375
+            "lat": "3.4248125",
+            "lng": "101.1789375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9683,8 +9683,8 @@
             }
           },
           "location": {
-            "lat": 4.201812500000001,
-            "lng": 101.2595625
+            "lat": "4.201812500000001",
+            "lng": "101.2595625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9775,8 +9775,8 @@
             }
           },
           "location": {
-            "lat": 4.249687499999999,
-            "lng": 117.8806875
+            "lat": "4.249687499999999",
+            "lng": "117.8806875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9851,8 +9851,8 @@
             }
           },
           "location": {
-            "lat": 4.0045625,
-            "lng": 101.0403125
+            "lat": "4.0045625",
+            "lng": "101.0403125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -9927,8 +9927,8 @@
             }
           },
           "location": {
-            "lat": 1.6396875,
-            "lng": 103.6238125
+            "lat": "1.6396875",
+            "lng": "103.6238125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10004,8 +10004,8 @@
             }
           },
           "location": {
-            "lat": 3.800437499999999,
-            "lng": 103.3215625
+            "lat": "3.800437499999999",
+            "lng": "103.3215625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10087,8 +10087,8 @@
             }
           },
           "location": {
-            "lat": 3.7613125,
-            "lng": 100.9898125
+            "lat": "3.7613125",
+            "lng": "100.9898125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10163,8 +10163,8 @@
             }
           },
           "location": {
-            "lat": 3.0199375,
-            "lng": 101.4404375
+            "lat": "3.0199375",
+            "lng": "101.4404375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10239,8 +10239,8 @@
             }
           },
           "location": {
-            "lat": 5.8329375,
-            "lng": 102.3878125
+            "lat": "5.8329375",
+            "lng": "102.3878125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10331,8 +10331,8 @@
             }
           },
           "location": {
-            "lat": 5.123187499999999,
-            "lng": 115.9413125
+            "lat": "5.123187499999999",
+            "lng": "115.9413125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10407,8 +10407,8 @@
             }
           },
           "location": {
-            "lat": 2.7348125,
-            "lng": 102.2330625
+            "lat": "2.7348125",
+            "lng": "102.2330625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10483,8 +10483,8 @@
             }
           },
           "location": {
-            "lat": 6.441062500000001,
-            "lng": 100.1913125
+            "lat": "6.441062500000001",
+            "lng": "100.1913125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10559,8 +10559,8 @@
             }
           },
           "location": {
-            "lat": 2.7090625,
-            "lng": 101.9435625
+            "lat": "2.7090625",
+            "lng": "101.9435625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10635,8 +10635,8 @@
             }
           },
           "location": {
-            "lat": 6.1439375,
-            "lng": 116.2190625
+            "lat": "6.1439375",
+            "lng": "116.2190625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10711,8 +10711,8 @@
             }
           },
           "location": {
-            "lat": 6.1896875,
-            "lng": 102.1573125
+            "lat": "6.1896875",
+            "lng": "102.1573125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10787,8 +10787,8 @@
             }
           },
           "location": {
-            "lat": 3.1698125,
-            "lng": 101.7028125
+            "lat": "3.1698125",
+            "lng": "101.7028125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10863,8 +10863,8 @@
             }
           },
           "location": {
-            "lat": 1.5436875,
-            "lng": 110.3396875
+            "lat": "1.5436875",
+            "lng": "110.3396875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -10939,8 +10939,8 @@
             }
           },
           "location": {
-            "lat": 6.013812499999999,
-            "lng": 116.1194375
+            "lat": "6.013812499999999",
+            "lng": "116.1194375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -11015,8 +11015,8 @@
             }
           },
           "location": {
-            "lat": 5.8210625,
-            "lng": 100.3843125
+            "lat": "5.8210625",
+            "lng": "100.3843125"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -11091,8 +11091,8 @@
             }
           },
           "location": {
-            "lat": 2.9269375,
-            "lng": 101.6739375
+            "lat": "2.9269375",
+            "lng": "101.6739375"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -11167,8 +11167,8 @@
             }
           },
           "location": {
-            "lat": 3.1756875,
-            "lng": 101.6996875
+            "lat": "3.1756875",
+            "lng": "101.6996875"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -11243,8 +11243,8 @@
             }
           },
           "location": {
-            "lat": 1.4809375,
-            "lng": 110.4190625
+            "lat": "1.4809375",
+            "lng": "110.4190625"
           },
           "location_type": "ROOFTOP",
           "viewport": {
@@ -11319,8 +11319,8 @@
             }
           },
           "location": {
-            "lat": 3.2216875,
-            "lng": 101.5836875
+            "lat": "3.2216875",
+            "lng": "101.5836875"
           },
           "location_type": "ROOFTOP",
           "viewport": {

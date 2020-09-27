@@ -2,7 +2,7 @@
  * Get geocode data using plus codes manually collected from google maps
  */
 
-require("dotenv").config();
+require("dotenv").config({ path: "../.env" });
 const fs = require("fs");
 const d3 = require("d3-dsv");
 const googleMapsLocations = d3.csvParse(
@@ -32,12 +32,16 @@ const data = [];
       name: o.name,
     };
     res.results = await geocode(o.plus);
+    res.results.forEach((o) => {
+      o.geometry.location.lat = `${o.geometry.location.lat}`;
+      o.geometry.location.lng = `${o.geometry.location.lng}`;
+    });
     data.push(res);
   }
   return data;
 })().then(() =>
   fs.writeFile(
-    "geocodeData.json",
+    "../data/geocodeData.json",
     JSON.stringify(data, null, 2),
     null,
     (err) => err || console.log("wrote geocode json")
